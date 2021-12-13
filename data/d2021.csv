@@ -1,0 +1,2596 @@
+STATE,STATE_FIPS,YEAR,MONTH_NAME,EVENT_TYPE,CZ_TYPE,CZ_FIPS
+ARIZONA,4,2021,January,Drought,Z,503
+MAINE,23,2021,June,Drought,Z,15
+MAINE,23,2021,June,Drought,Z,10
+MAINE,23,2021,June,Drought,Z,31
+ARIZONA,4,2021,January,Drought,Z,504
+COLORADO,8,2021,June,Drought,Z,13
+UTAH,49,2021,June,Drought,Z,29
+UTAH,49,2021,June,Drought,Z,25
+UTAH,49,2021,June,Drought,Z,24
+UTAH,49,2021,June,Drought,Z,22
+UTAH,49,2021,June,Drought,Z,28
+UTAH,49,2021,June,Drought,Z,23
+COLORADO,8,2021,June,Drought,Z,14
+COLORADO,8,2021,June,Drought,Z,7
+COLORADO,8,2021,June,Drought,Z,12
+COLORADO,8,2021,June,Drought,Z,20
+COLORADO,8,2021,June,Drought,Z,6
+COLORADO,8,2021,June,Drought,Z,21
+COLORADO,8,2021,June,Drought,Z,11
+COLORADO,8,2021,June,Drought,Z,17
+COLORADO,8,2021,June,Drought,Z,22
+COLORADO,8,2021,June,Drought,Z,19
+COLORADO,8,2021,June,Drought,Z,18
+COLORADO,8,2021,June,Drought,Z,1
+COLORADO,8,2021,June,Drought,Z,23
+COLORADO,8,2021,June,Drought,Z,9
+COLORADO,8,2021,June,Drought,Z,5
+COLORADO,8,2021,June,Drought,Z,10
+COLORADO,8,2021,June,Drought,Z,3
+COLORADO,8,2021,June,Drought,Z,8
+COLORADO,8,2021,June,Drought,Z,4
+COLORADO,8,2021,June,Drought,Z,2
+IOWA,19,2021,July,Drought,Z,58
+IOWA,19,2021,July,Drought,Z,33
+COLORADO,8,2021,July,Drought,Z,13
+COLORADO,8,2021,July,Drought,Z,2
+COLORADO,8,2021,July,Drought,Z,1
+UTAH,49,2021,July,Drought,Z,22
+UTAH,49,2021,July,Drought,Z,28
+UTAH,49,2021,July,Drought,Z,29
+UTAH,49,2021,July,Drought,Z,27
+UTAH,49,2021,July,Drought,Z,25
+COLORADO,8,2021,July,Drought,Z,6
+COLORADO,8,2021,July,Drought,Z,7
+COLORADO,8,2021,July,Drought,Z,12
+COLORADO,8,2021,July,Drought,Z,10
+COLORADO,8,2021,July,Drought,Z,23
+COLORADO,8,2021,July,Drought,Z,21
+COLORADO,8,2021,July,Drought,Z,19
+COLORADO,8,2021,July,Drought,Z,18
+COLORADO,8,2021,July,Drought,Z,22
+COLORADO,8,2021,July,Drought,Z,11
+COLORADO,8,2021,July,Drought,Z,17
+COLORADO,8,2021,July,Drought,Z,9
+COLORADO,8,2021,July,Drought,Z,20
+COLORADO,8,2021,July,Drought,Z,14
+IOWA,19,2021,July,Drought,Z,46
+COLORADO,8,2021,July,Drought,Z,3
+COLORADO,8,2021,July,Drought,Z,4
+COLORADO,8,2021,July,Drought,Z,8
+COLORADO,8,2021,July,Drought,Z,5
+UTAH,49,2021,July,Drought,Z,24
+UTAH,49,2021,July,Drought,Z,23
+IOWA,19,2021,July,Drought,Z,38
+IOWA,19,2021,July,Drought,Z,27
+IOWA,19,2021,July,Drought,Z,49
+IOWA,19,2021,July,Drought,Z,28
+IOWA,19,2021,July,Drought,Z,39
+IOWA,19,2021,July,Drought,Z,50
+IOWA,19,2021,July,Drought,Z,45
+IOWA,19,2021,July,Drought,Z,57
+IOWA,19,2021,July,Drought,Z,72
+ARIZONA,4,2021,January,Drought,Z,506
+ARIZONA,4,2021,January,Drought,Z,502
+ARIZONA,4,2021,January,Drought,Z,505
+ARIZONA,4,2021,January,Drought,Z,507
+ARIZONA,4,2021,January,Drought,Z,509
+ARIZONA,4,2021,January,Drought,Z,510
+ARIZONA,4,2021,January,Drought,Z,508
+ARIZONA,4,2021,January,Drought,Z,513
+IOWA,19,2021,July,Drought,Z,59
+IOWA,19,2021,July,Drought,Z,60
+ARIZONA,4,2021,January,Drought,Z,511
+ARIZONA,4,2021,January,Drought,Z,512
+UTAH,49,2021,June,Drought,Z,27
+ARIZONA,4,2021,January,Drought,Z,514
+ARIZONA,4,2021,January,Drought,Z,515
+GUAM,98,2021,March,Drought,Z,2
+GUAM,98,2021,March,Drought,Z,3
+TEXAS,48,2021,February,Drought,Z,205
+TEXAS,48,2021,February,Drought,Z,228
+TEXAS,48,2021,February,Drought,Z,209
+TEXAS,48,2021,February,Drought,Z,219
+TEXAS,48,2021,February,Drought,Z,187
+TEXAS,48,2021,February,Drought,Z,224
+TEXAS,48,2021,February,Drought,Z,204
+TEXAS,48,2021,February,Drought,Z,218
+TEXAS,48,2021,February,Drought,Z,206
+TEXAS,48,2021,February,Drought,Z,203
+NEBRASKA,31,2021,February,Drought,Z,58
+NEBRASKA,31,2021,February,Drought,Z,57
+NEBRASKA,31,2021,February,Drought,Z,35
+NEBRASKA,31,2021,February,Drought,Z,22
+NEBRASKA,31,2021,February,Drought,Z,4
+NEBRASKA,31,2021,February,Drought,Z,69
+NEBRASKA,31,2021,February,Drought,Z,56
+NEBRASKA,31,2021,February,Drought,Z,23
+NEBRASKA,31,2021,February,Drought,Z,29
+NEBRASKA,31,2021,February,Drought,Z,71
+NEBRASKA,31,2021,February,Drought,Z,70
+TEXAS,48,2021,May,Drought,Z,344
+TEXAS,48,2021,May,Drought,Z,247
+TEXAS,48,2021,May,Drought,Z,233
+TEXAS,48,2021,May,Drought,Z,246
+TEXAS,48,2021,May,Drought,Z,232
+TEXAS,48,2021,May,Drought,Z,347
+TEXAS,48,2021,May,Drought,Z,346
+TEXAS,48,2021,May,Drought,Z,245
+TEXAS,48,2021,May,Drought,Z,244
+TEXAS,48,2021,May,Drought,Z,343
+TEXAS,48,2021,May,Drought,Z,243
+TEXAS,48,2021,May,Drought,Z,342
+IOWA,19,2021,February,Drought,Z,70
+IOWA,19,2021,February,Drought,Z,34
+IOWA,19,2021,February,Drought,Z,33
+TEXAS,48,2021,May,Drought,Z,242
+TEXAS,48,2021,May,Drought,Z,241
+TEXAS,48,2021,May,Drought,Z,231
+IOWA,19,2021,February,Drought,Z,71
+IOWA,19,2021,April,Drought,Z,5
+IOWA,19,2021,April,Drought,Z,23
+IOWA,19,2021,April,Drought,Z,15
+NEW MEXICO,35,2021,April,Drought,Z,226
+NEW MEXICO,35,2021,April,Drought,Z,206
+NEW MEXICO,35,2021,April,Drought,Z,207
+NEW MEXICO,35,2021,April,Drought,Z,415
+NEW MEXICO,35,2021,April,Drought,Z,412
+NEW MEXICO,35,2021,April,Drought,Z,413
+NEW MEXICO,35,2021,April,Drought,Z,414
+NEW MEXICO,35,2021,April,Drought,Z,416
+NEW MEXICO,35,2021,April,Drought,Z,417
+TEXAS,48,2021,April,Drought,Z,418
+IOWA,19,2021,February,Drought,Z,5
+IOWA,19,2021,February,Drought,Z,23
+NEW MEXICO,35,2021,April,Drought,Z,220
+NEW MEXICO,35,2021,April,Drought,Z,241
+NEW MEXICO,35,2021,April,Drought,Z,401
+NEW MEXICO,35,2021,April,Drought,Z,402
+NEW MEXICO,35,2021,April,Drought,Z,403
+NEW MEXICO,35,2021,April,Drought,Z,405
+TEXAS,48,2021,April,Drought,Z,419
+TEXAS,48,2021,April,Drought,Z,420
+TEXAS,48,2021,April,Drought,Z,421
+TEXAS,48,2021,April,Drought,Z,422
+TEXAS,48,2021,April,Drought,Z,423
+TEXAS,48,2021,April,Drought,Z,424
+IOWA,19,2021,February,Drought,Z,15
+IOWA,19,2021,February,Drought,Z,4
+COLORADO,8,2021,April,Drought,Z,23
+NEW MEXICO,35,2021,April,Drought,Z,201
+NEW MEXICO,35,2021,April,Drought,Z,205
+NEW MEXICO,35,2021,April,Drought,Z,204
+NEW MEXICO,35,2021,April,Drought,Z,406
+NEW MEXICO,35,2021,April,Drought,Z,407
+NEW MEXICO,35,2021,April,Drought,Z,408
+NEW MEXICO,35,2021,April,Drought,Z,409
+NEW MEXICO,35,2021,April,Drought,Z,410
+NEW MEXICO,35,2021,April,Drought,Z,411
+COLORADO,8,2021,January,Drought,Z,92
+IOWA,19,2021,February,Drought,Z,58
+IOWA,19,2021,February,Drought,Z,57
+IOWA,19,2021,February,Drought,Z,81
+IOWA,19,2021,February,Drought,Z,45
+IOWA,19,2021,February,Drought,Z,44
+COLORADO,8,2021,April,Drought,Z,19
+COLORADO,8,2021,April,Drought,Z,18
+COLORADO,8,2021,April,Drought,Z,22
+COLORADO,8,2021,April,Drought,Z,21
+COLORADO,8,2021,April,Drought,Z,11
+NEW MEXICO,35,2021,April,Drought,Z,203
+NEW MEXICO,35,2021,April,Drought,Z,228
+NEW MEXICO,35,2021,April,Drought,Z,230
+NEBRASKA,31,2021,April,Drought,Z,58
+NEBRASKA,31,2021,April,Drought,Z,69
+TEXAS,48,2021,February,Drought,Z,239
+TEXAS,48,2021,February,Drought,Z,240
+TEXAS,48,2021,February,Drought,Z,229
+COLORADO,8,2021,April,Drought,Z,17
+COLORADO,8,2021,April,Drought,Z,9
+COLORADO,8,2021,April,Drought,Z,20
+COLORADO,8,2021,April,Drought,Z,14
+COLORADO,8,2021,April,Drought,Z,6
+NEW MEXICO,35,2021,April,Drought,Z,210
+NEW MEXICO,35,2021,April,Drought,Z,216
+NEW MEXICO,35,2021,April,Drought,Z,213
+NEBRASKA,31,2021,April,Drought,Z,71
+NEBRASKA,31,2021,April,Drought,Z,59
+COLORADO,8,2021,April,Drought,Z,7
+COLORADO,8,2021,April,Drought,Z,10
+COLORADO,8,2021,April,Drought,Z,3
+COLORADO,8,2021,April,Drought,Z,8
+NEW MEXICO,35,2021,April,Drought,Z,215
+NEW MEXICO,35,2021,April,Drought,Z,227
+NEW MEXICO,35,2021,April,Drought,Z,211
+TEXAS,48,2021,April,Drought,Z,28
+TEXAS,48,2021,April,Drought,Z,29
+TEXAS,48,2021,April,Drought,Z,40
+TEXAS,48,2021,April,Drought,Z,41
+NORTH DAKOTA,38,2021,April,Drought,Z,47
+NORTH DAKOTA,38,2021,April,Drought,Z,50
+NORTH DAKOTA,38,2021,April,Drought,Z,17
+NORTH DAKOTA,38,2021,April,Drought,Z,21
+NORTH DAKOTA,38,2021,April,Drought,Z,19
+NORTH DAKOTA,38,2021,April,Drought,Z,41
+NORTH DAKOTA,38,2021,April,Drought,Z,36
+NORTH DAKOTA,38,2021,April,Drought,Z,13
+NORTH DAKOTA,38,2021,April,Drought,Z,23
+NORTH DAKOTA,38,2021,April,Drought,Z,37
+COLORADO,8,2021,April,Drought,Z,4
+COLORADO,8,2021,April,Drought,Z,5
+COLORADO,8,2021,April,Drought,Z,2
+COLORADO,8,2021,April,Drought,Z,1
+NEW MEXICO,35,2021,April,Drought,Z,214
+NEW MEXICO,35,2021,April,Drought,Z,217
+NEW MEXICO,35,2021,April,Drought,Z,231
+NORTH DAKOTA,38,2021,April,Drought,Z,44
+NORTH DAKOTA,38,2021,April,Drought,Z,32
+NORTH DAKOTA,38,2021,April,Drought,Z,4
+NORTH DAKOTA,38,2021,April,Drought,Z,34
+NORTH DAKOTA,38,2021,April,Drought,Z,40
+NORTH DAKOTA,38,2021,April,Drought,Z,20
+NORTH DAKOTA,38,2021,April,Drought,Z,3
+NORTH DAKOTA,38,2021,April,Drought,Z,5
+NORTH DAKOTA,38,2021,April,Drought,Z,22
+NORTH DAKOTA,38,2021,April,Drought,Z,45
+COLORADO,8,2021,January,Drought,Z,91
+COLORADO,8,2021,January,Drought,Z,90
+KANSAS,20,2021,January,Drought,Z,1
+KANSAS,20,2021,January,Drought,Z,13
+COLORADO,8,2021,April,Drought,Z,13
+UTAH,49,2021,April,Drought,Z,22
+UTAH,49,2021,April,Drought,Z,28
+UTAH,49,2021,April,Drought,Z,29
+UTAH,49,2021,April,Drought,Z,27
+UTAH,49,2021,April,Drought,Z,25
+SOUTH DAKOTA,46,2021,April,Drought,Z,3
+SOUTH DAKOTA,46,2021,April,Drought,Z,15
+NEW MEXICO,35,2021,April,Drought,Z,232
+NEW MEXICO,35,2021,April,Drought,Z,229
+NEW MEXICO,35,2021,April,Drought,Z,234
+NEBRASKA,31,2021,April,Drought,Z,79
+COLORADO,8,2021,April,Drought,Z,92
+KANSAS,20,2021,January,Drought,Z,27
+KANSAS,20,2021,January,Drought,Z,41
+UTAH,49,2021,April,Drought,Z,24
+UTAH,49,2021,April,Drought,Z,23
+MONTANA,30,2021,April,Drought,Z,21
+SOUTH DAKOTA,46,2021,April,Drought,Z,33
+SOUTH DAKOTA,46,2021,April,Drought,Z,4
+SOUTH DAKOTA,46,2021,April,Drought,Z,9
+NEW MEXICO,35,2021,April,Drought,Z,233
+NEW MEXICO,35,2021,April,Drought,Z,237
+NEW MEXICO,35,2021,April,Drought,Z,235
+TEXAS,48,2021,April,Drought,Z,187
+MONTANA,30,2021,April,Drought,Z,61
+MONTANA,30,2021,April,Drought,Z,17
+MONTANA,30,2021,April,Drought,Z,59
+MONTANA,30,2021,April,Drought,Z,22
+CALIFORNIA,6,2021,April,Drought,Z,199
+NEW MEXICO,35,2021,May,Drought,Z,401
+NEW MEXICO,35,2021,May,Drought,Z,402
+NEW MEXICO,35,2021,May,Drought,Z,403
+NEW MEXICO,35,2021,May,Drought,Z,404
+NEW MEXICO,35,2021,May,Drought,Z,405
+NEW MEXICO,35,2021,May,Drought,Z,413
+NEW MEXICO,35,2021,May,Drought,Z,414
+NEW MEXICO,35,2021,May,Drought,Z,415
+NEW MEXICO,35,2021,May,Drought,Z,416
+NEW MEXICO,35,2021,May,Drought,Z,417
+TEXAS,48,2021,May,Drought,Z,418
+TEXAS,48,2021,May,Drought,Z,419
+TEXAS,48,2021,May,Drought,Z,420
+TEXAS,48,2021,May,Drought,Z,421
+TEXAS,48,2021,May,Drought,Z,422
+TEXAS,48,2021,May,Drought,Z,423
+TEXAS,48,2021,May,Drought,Z,424
+CALIFORNIA,6,2021,April,Drought,Z,13
+SOUTH DAKOTA,46,2021,April,Drought,Z,16
+SOUTH DAKOTA,46,2021,April,Drought,Z,34
+SOUTH DAKOTA,46,2021,April,Drought,Z,36
+NEW MEXICO,35,2021,April,Drought,Z,236
+NEW MEXICO,35,2021,April,Drought,Z,238
+NEW MEXICO,35,2021,April,Drought,Z,212
+TEXAS,48,2021,April,Drought,Z,205
+TEXAS,48,2021,April,Drought,Z,206
+TEXAS,48,2021,April,Drought,Z,224
+TEXAS,48,2021,April,Drought,Z,209
+MONTANA,30,2021,April,Drought,Z,19
+MONTANA,30,2021,April,Drought,Z,62
+MONTANA,30,2021,April,Drought,Z,24
+MONTANA,30,2021,April,Drought,Z,27
+MONTANA,30,2021,April,Drought,Z,18
+MONTANA,30,2021,April,Drought,Z,16
+CALIFORNIA,6,2021,April,Drought,Z,185
+CALIFORNIA,6,2021,April,Drought,Z,188
+CALIFORNIA,6,2021,April,Drought,Z,189
+CALIFORNIA,6,2021,April,Drought,Z,191
+CALIFORNIA,6,2021,April,Drought,Z,192
+NEBRASKA,31,2021,April,Drought,Z,70
+NEBRASKA,31,2021,February,Drought,Z,28
+TEXAS,48,2021,May,Drought,Z,219
+TEXAS,48,2021,May,Drought,Z,218
+TEXAS,48,2021,May,Drought,Z,222
+NEBRASKA,31,2021,January,Drought,Z,61
+NEBRASKA,31,2021,January,Drought,Z,46
+NEBRASKA,31,2021,January,Drought,Z,39
+NEBRASKA,31,2021,January,Drought,Z,40
+NEBRASKA,31,2021,January,Drought,Z,47
+NEBRASKA,31,2021,January,Drought,Z,62
+NEBRASKA,31,2021,January,Drought,Z,75
+NEBRASKA,31,2021,January,Drought,Z,85
+NEBRASKA,31,2021,January,Drought,Z,41
+NEBRASKA,31,2021,January,Drought,Z,48
+NEBRASKA,31,2021,January,Drought,Z,63
+NEBRASKA,31,2021,January,Drought,Z,76
+NEBRASKA,31,2021,January,Drought,Z,86
+GUAM,98,2021,May,Drought,Z,2
+CALIFORNIA,6,2021,April,Drought,Z,15
+CALIFORNIA,6,2021,April,Drought,Z,16
+SOUTH DAKOTA,46,2021,April,Drought,Z,17
+SOUTH DAKOTA,46,2021,April,Drought,Z,10
+SOUTH DAKOTA,46,2021,April,Drought,Z,5
+NEW MEXICO,35,2021,April,Drought,Z,218
+NEW MEXICO,35,2021,April,Drought,Z,221
+NEW MEXICO,35,2021,April,Drought,Z,222
+TEXAS,48,2021,April,Drought,Z,204
+TEXAS,48,2021,April,Drought,Z,228
+TEXAS,48,2021,April,Drought,Z,189
+TEXAS,48,2021,April,Drought,Z,225
+COLORADO,8,2021,April,Drought,Z,12
+MONTANA,30,2021,April,Drought,Z,20
+MONTANA,30,2021,April,Drought,Z,23
+MONTANA,30,2021,April,Drought,Z,25
+MONTANA,30,2021,April,Drought,Z,26
+CALIFORNIA,6,2021,April,Drought,Z,193
+CALIFORNIA,6,2021,April,Drought,Z,194
+CALIFORNIA,6,2021,April,Drought,Z,195
+CALIFORNIA,6,2021,April,Drought,Z,196
+CALIFORNIA,6,2021,April,Drought,Z,197
+CALIFORNIA,6,2021,April,Drought,Z,198
+KANSAS,20,2021,January,Drought,Z,2
+KANSAS,20,2021,January,Drought,Z,14
+KANSAS,20,2021,January,Drought,Z,28
+NEBRASKA,31,2021,January,Drought,Z,74
+NEBRASKA,31,2021,January,Drought,Z,84
+NEBRASKA,31,2021,February,Drought,Z,60
+NEBRASKA,31,2021,February,Drought,Z,72
+NEBRASKA,31,2021,February,Drought,Z,82
+NEBRASKA,31,2021,February,Drought,Z,61
+NEBRASKA,31,2021,February,Drought,Z,73
+NEBRASKA,31,2021,February,Drought,Z,83
+NEBRASKA,31,2021,February,Drought,Z,39
+CALIFORNIA,6,2021,April,Drought,Z,17
+CALIFORNIA,6,2021,April,Drought,Z,19
+SOUTH DAKOTA,46,2021,April,Drought,Z,6
+NEW MEXICO,35,2021,April,Drought,Z,223
+NEW MEXICO,35,2021,April,Drought,Z,202
+NEW MEXICO,35,2021,April,Drought,Z,208
+TEXAS,48,2021,April,Drought,Z,218
+TEXAS,48,2021,April,Drought,Z,219
+TEXAS,48,2021,April,Drought,Z,222
+KANSAS,20,2021,January,Drought,Z,3
+KANSAS,20,2021,January,Drought,Z,4
+NEBRASKA,31,2021,January,Drought,Z,79
+NEBRASKA,31,2021,February,Drought,Z,40
+NEBRASKA,31,2021,February,Drought,Z,47
+NEBRASKA,31,2021,February,Drought,Z,46
+NEBRASKA,31,2021,February,Drought,Z,62
+NEBRASKA,31,2021,February,Drought,Z,74
+NEBRASKA,31,2021,February,Drought,Z,84
+NEBRASKA,31,2021,February,Drought,Z,75
+NEBRASKA,31,2021,February,Drought,Z,85
+KANSAS,20,2021,February,Drought,Z,5
+KANSAS,20,2021,February,Drought,Z,6
+NEBRASKA,31,2021,February,Drought,Z,38
+TEXAS,48,2021,April,Drought,Z,239
+TEXAS,48,2021,April,Drought,Z,229
+TEXAS,48,2021,April,Drought,Z,230
+CALIFORNIA,6,2021,April,Drought,Z,63
+NEW MEXICO,35,2021,April,Drought,Z,209
+NEW MEXICO,35,2021,April,Drought,Z,219
+NEW MEXICO,35,2021,April,Drought,Z,239
+GUAM,98,2021,April,Drought,Z,2
+CALIFORNIA,6,2021,April,Drought,Z,18
+TEXAS,48,2021,May,Drought,Z,228
+TEXAS,48,2021,April,Drought,Z,240
+TEXAS,48,2021,April,Drought,Z,231
+TEXAS,48,2021,April,Drought,Z,241
+TEXAS,48,2021,April,Drought,Z,232
+TEXAS,48,2021,April,Drought,Z,233
+TEXAS,48,2021,April,Drought,Z,234
+NEW MEXICO,35,2021,April,Drought,Z,240
+NEW MEXICO,35,2021,April,Drought,Z,224
+NEW MEXICO,35,2021,April,Drought,Z,225
+GUAM,98,2021,April,Drought,Z,3
+TEXAS,48,2021,April,Drought,Z,18
+TEXAS,48,2021,April,Drought,Z,17
+NEW MEXICO,35,2021,May,Drought,Z,406
+NEW MEXICO,35,2021,May,Drought,Z,407
+NEW MEXICO,35,2021,May,Drought,Z,408
+NEW MEXICO,35,2021,May,Drought,Z,409
+NEW MEXICO,35,2021,May,Drought,Z,412
+NEW MEXICO,35,2021,May,Drought,Z,410
+NEW MEXICO,35,2021,May,Drought,Z,411
+NEBRASKA,31,2021,February,Drought,Z,59
+TEXAS,48,2021,April,Drought,Z,246
+TEXAS,48,2021,April,Drought,Z,244
+TEXAS,48,2021,April,Drought,Z,243
+TEXAS,48,2021,April,Drought,Z,242
+TEXAS,48,2021,April,Drought,Z,343
+TEXAS,48,2021,April,Drought,Z,342
+OKLAHOMA,40,2021,April,Drought,Z,23
+TEXAS,48,2021,April,Drought,Z,16
+OKLAHOMA,40,2021,April,Drought,Z,1
+TEXAS,48,2021,April,Drought,Z,21
+TEXAS,48,2021,April,Drought,Z,22
+TEXAS,48,2021,April,Drought,Z,33
+TEXAS,48,2021,April,Drought,Z,34
+KANSAS,20,2021,January,Drought,Z,5
+KANSAS,20,2021,January,Drought,Z,6
+KANSAS,20,2021,January,Drought,Z,7
+NEBRASKA,31,2021,January,Drought,Z,60
+NEBRASKA,31,2021,January,Drought,Z,72
+NEBRASKA,31,2021,January,Drought,Z,82
+NEBRASKA,31,2021,January,Drought,Z,83
+NEBRASKA,31,2021,January,Drought,Z,73
+IOWA,19,2021,April,Drought,Z,4
+OKLAHOMA,40,2021,April,Drought,Z,50
+OKLAHOMA,40,2021,April,Drought,Z,41
+OKLAHOMA,40,2021,April,Drought,Z,45
+OKLAHOMA,40,2021,April,Drought,Z,46
+OKLAHOMA,40,2021,April,Drought,Z,47
+OKLAHOMA,40,2021,April,Drought,Z,51
+OKLAHOMA,40,2021,April,Drought,Z,47
+OKLAHOMA,40,2021,April,Drought,Z,52
+OKLAHOMA,40,2021,April,Drought,Z,48
+TEXAS,48,2021,April,Drought,Z,88
+TEXAS,48,2021,April,Drought,Z,90
+TEXAS,48,2021,April,Drought,Z,87
+ARIZONA,4,2021,April,Drought,Z,505
+ARIZONA,4,2021,April,Drought,Z,503
+ARIZONA,4,2021,April,Drought,Z,504
+ARIZONA,4,2021,April,Drought,Z,506
+TEXAS,48,2021,April,Drought,Z,27
+TEXAS,48,2021,April,Drought,Z,23
+TEXAS,48,2021,April,Drought,Z,35
+TEXAS,48,2021,April,Drought,Z,39
+TEXAS,48,2021,April,Drought,Z,37
+TEXAS,48,2021,April,Drought,Z,38
+NORTH DAKOTA,38,2021,April,Drought,Z,35
+NORTH DAKOTA,38,2021,April,Drought,Z,1
+NORTH DAKOTA,38,2021,April,Drought,Z,2
+NORTH DAKOTA,38,2021,April,Drought,Z,18
+NORTH DAKOTA,38,2021,April,Drought,Z,46
+NORTH DAKOTA,38,2021,April,Drought,Z,31
+NORTH DAKOTA,38,2021,April,Drought,Z,42
+NORTH DAKOTA,38,2021,April,Drought,Z,33
+NORTH DAKOTA,38,2021,April,Drought,Z,11
+NORTH DAKOTA,38,2021,April,Drought,Z,9
+NORTH DAKOTA,38,2021,April,Drought,Z,12
+NORTH DAKOTA,38,2021,April,Drought,Z,10
+NORTH DAKOTA,38,2021,April,Drought,Z,43
+NORTH DAKOTA,38,2021,April,Drought,Z,25
+NEBRASKA,31,2021,January,Drought,Z,80
+NEBRASKA,31,2021,January,Drought,Z,81
+SOUTH DAKOTA,46,2021,February,Drought,Z,3
+TEXAS,48,2021,February,Drought,Z,41
+ARIZONA,4,2021,February,Drought,Z,503
+ARIZONA,4,2021,February,Drought,Z,504
+SOUTH DAKOTA,46,2021,February,Drought,Z,15
+SOUTH DAKOTA,46,2021,February,Drought,Z,33
+SOUTH DAKOTA,46,2021,February,Drought,Z,45
+ARIZONA,4,2021,February,Drought,Z,505
+ARIZONA,4,2021,February,Drought,Z,506
+SOUTH DAKOTA,46,2021,February,Drought,Z,4
+SOUTH DAKOTA,46,2021,February,Drought,Z,9
+SOUTH DAKOTA,46,2021,February,Drought,Z,16
+ARIZONA,4,2021,February,Drought,Z,507
+ARIZONA,4,2021,February,Drought,Z,508
+SOUTH DAKOTA,46,2021,February,Drought,Z,34
+SOUTH DAKOTA,46,2021,February,Drought,Z,10
+ARIZONA,4,2021,February,Drought,Z,509
+ARIZONA,4,2021,February,Drought,Z,510
+NEW MEXICO,35,2021,May,Drought,Z,211
+NEW MEXICO,35,2021,May,Drought,Z,233
+NEW MEXICO,35,2021,May,Drought,Z,237
+ARIZONA,4,2021,February,Drought,Z,511
+ARIZONA,4,2021,February,Drought,Z,512
+COLORADO,8,2021,February,Drought,Z,90
+COLORADO,8,2021,February,Drought,Z,91
+NEW MEXICO,35,2021,May,Drought,Z,205
+NEW MEXICO,35,2021,May,Drought,Z,204
+NEW MEXICO,35,2021,May,Drought,Z,214
+NEW MEXICO,35,2021,May,Drought,Z,217
+NEW MEXICO,35,2021,May,Drought,Z,235
+NEW MEXICO,35,2021,May,Drought,Z,236
+ARIZONA,4,2021,February,Drought,Z,513
+ARIZONA,4,2021,February,Drought,Z,514
+COLORADO,8,2021,February,Drought,Z,92
+KANSAS,20,2021,February,Drought,Z,1
+KANSAS,20,2021,February,Drought,Z,13
+KANSAS,20,2021,February,Drought,Z,27
+KANSAS,20,2021,February,Drought,Z,41
+NEW MEXICO,35,2021,May,Drought,Z,238
+NEW MEXICO,35,2021,May,Drought,Z,212
+ARIZONA,4,2021,February,Drought,Z,515
+KANSAS,20,2021,February,Drought,Z,2
+KANSAS,20,2021,February,Drought,Z,14
+KANSAS,20,2021,February,Drought,Z,28
+KANSAS,20,2021,February,Drought,Z,42
+KANSAS,20,2021,February,Drought,Z,3
+GUAM,98,2021,February,Drought,Z,2
+KANSAS,20,2021,February,Drought,Z,15
+KANSAS,20,2021,February,Drought,Z,4
+KANSAS,20,2021,February,Drought,Z,16
+NEBRASKA,31,2021,February,Drought,Z,79
+NEBRASKA,31,2021,February,Drought,Z,80
+NEBRASKA,31,2021,February,Drought,Z,81
+OKLAHOMA,40,2021,February,Drought,Z,1
+TEXAS,48,2021,February,Drought,Z,6
+TEXAS,48,2021,February,Drought,Z,11
+MONTANA,30,2021,February,Drought,Z,19
+MONTANA,30,2021,February,Drought,Z,18
+MONTANA,30,2021,February,Drought,Z,62
+NEW MEXICO,35,2021,May,Drought,Z,203
+NEW MEXICO,35,2021,May,Drought,Z,228
+NEW MEXICO,35,2021,May,Drought,Z,231
+NEW MEXICO,35,2021,May,Drought,Z,232
+NEW MEXICO,35,2021,May,Drought,Z,218
+NEW MEXICO,35,2021,May,Drought,Z,221
+MONTANA,30,2021,February,Drought,Z,23
+MONTANA,30,2021,February,Drought,Z,24
+MONTANA,30,2021,February,Drought,Z,25
+MONTANA,30,2021,February,Drought,Z,26
+MONTANA,30,2021,February,Drought,Z,20
+MONTANA,30,2021,February,Drought,Z,27
+NEW MEXICO,35,2021,May,Drought,Z,216
+NEW MEXICO,35,2021,May,Drought,Z,213
+NEW MEXICO,35,2021,May,Drought,Z,215
+NEW MEXICO,35,2021,May,Drought,Z,227
+TEXAS,48,2021,February,Drought,Z,21
+OKLAHOMA,40,2021,February,Drought,Z,21
+OKLAHOMA,40,2021,February,Drought,Z,33
+TEXAS,48,2021,February,Drought,Z,22
+TEXAS,48,2021,February,Drought,Z,23
+TEXAS,48,2021,February,Drought,Z,24
+OKLAHOMA,40,2021,February,Drought,Z,36
+OKLAHOMA,40,2021,February,Drought,Z,14
+OKLAHOMA,40,2021,February,Drought,Z,34
+TEXAS,48,2021,February,Drought,Z,27
+TEXAS,48,2021,February,Drought,Z,28
+TEXAS,48,2021,February,Drought,Z,29
+TEXAS,48,2021,May,Drought,Z,239
+TEXAS,48,2021,May,Drought,Z,234
+TEXAS,48,2021,February,Drought,Z,15
+TEXAS,48,2021,February,Drought,Z,17
+TEXAS,48,2021,February,Drought,Z,30
+TEXAS,48,2021,February,Drought,Z,31
+TEXAS,48,2021,February,Drought,Z,33
+TEXAS,48,2021,February,Drought,Z,18
+TEXAS,48,2021,February,Drought,Z,16
+TEXAS,48,2021,February,Drought,Z,34
+TEXAS,48,2021,February,Drought,Z,35
+TEXAS,48,2021,February,Drought,Z,36
+NEW MEXICO,35,2021,May,Drought,Z,201
+NEW MEXICO,35,2021,May,Drought,Z,230
+NEW MEXICO,35,2021,May,Drought,Z,210
+NEW MEXICO,35,2021,May,Drought,Z,229
+NEW MEXICO,35,2021,May,Drought,Z,234
+NEW MEXICO,35,2021,May,Drought,Z,222
+TEXAS,48,2021,February,Drought,Z,37
+TEXAS,48,2021,February,Drought,Z,39
+TEXAS,48,2021,February,Drought,Z,40
+ARIZONA,4,2021,February,Drought,Z,502
+NEW MEXICO,35,2021,June,Drought,Z,215
+NEW MEXICO,35,2021,June,Drought,Z,227
+NEW MEXICO,35,2021,June,Drought,Z,212
+NEW MEXICO,35,2021,June,Drought,Z,218
+NEW MEXICO,35,2021,June,Drought,Z,220
+NEW MEXICO,35,2021,June,Drought,Z,241
+CALIFORNIA,6,2021,June,Drought,Z,186
+CALIFORNIA,6,2021,June,Drought,Z,187
+CALIFORNIA,6,2021,June,Drought,Z,188
+CALIFORNIA,6,2021,June,Drought,Z,189
+CALIFORNIA,6,2021,June,Drought,Z,190
+TEXAS,48,2021,June,Drought,Z,21
+TEXAS,48,2021,June,Drought,Z,22
+TEXAS,48,2021,June,Drought,Z,27
+TEXAS,48,2021,June,Drought,Z,28
+TEXAS,48,2021,June,Drought,Z,33
+NEW MEXICO,35,2021,May,Drought,Z,239
+TEXAS,48,2021,February,Drought,Z,251
+TEXAS,48,2021,February,Drought,Z,255
+TEXAS,48,2021,February,Drought,Z,253
+TEXAS,48,2021,February,Drought,Z,353
+NEW MEXICO,35,2021,June,Drought,Z,201
+NEW MEXICO,35,2021,June,Drought,Z,211
+NEW MEXICO,35,2021,June,Drought,Z,214
+NEW MEXICO,35,2021,June,Drought,Z,221
+NEW MEXICO,35,2021,June,Drought,Z,222
+CALIFORNIA,6,2021,June,Drought,Z,191
+CALIFORNIA,6,2021,June,Drought,Z,192
+CALIFORNIA,6,2021,June,Drought,Z,193
+CALIFORNIA,6,2021,June,Drought,Z,194
+CALIFORNIA,6,2021,June,Drought,Z,195
+CALIFORNIA,6,2021,June,Drought,Z,196
+TEXAS,48,2021,June,Drought,Z,34
+TEXAS,48,2021,June,Drought,Z,39
+NEW MEXICO,35,2021,May,Drought,Z,208
+NEW MEXICO,35,2021,May,Drought,Z,209
+NEW MEXICO,35,2021,May,Drought,Z,219
+IOWA,19,2021,June,Drought,Z,11
+NEW MEXICO,35,2021,June,Drought,Z,205
+NEW MEXICO,35,2021,June,Drought,Z,204
+NEW MEXICO,35,2021,June,Drought,Z,217
+NEW MEXICO,35,2021,June,Drought,Z,231
+NEW MEXICO,35,2021,June,Drought,Z,223
+NEW MEXICO,35,2021,June,Drought,Z,202
+CALIFORNIA,6,2021,June,Drought,Z,197
+CALIFORNIA,6,2021,June,Drought,Z,198
+CALIFORNIA,6,2021,June,Drought,Z,199
+OKLAHOMA,40,2021,June,Drought,Z,23
+OKLAHOMA,40,2021,June,Drought,Z,24
+OKLAHOMA,40,2021,June,Drought,Z,22
+IOWA,19,2021,June,Drought,Z,19
+IOWA,19,2021,June,Drought,Z,30
+IOWA,19,2021,June,Drought,Z,29
+IOWA,19,2021,June,Drought,Z,18
+NEW MEXICO,35,2021,June,Drought,Z,203
+NEW MEXICO,35,2021,June,Drought,Z,228
+NEW MEXICO,35,2021,June,Drought,Z,232
+NEW MEXICO,35,2021,June,Drought,Z,229
+NEW MEXICO,35,2021,June,Drought,Z,208
+NEW MEXICO,35,2021,June,Drought,Z,209
+TEXAS,48,2021,April,Drought,Z,252
+IOWA,19,2021,June,Drought,Z,9
+IOWA,19,2021,June,Drought,Z,8
+IOWA,19,2021,June,Drought,Z,10
+WISCONSIN,55,2021,June,Drought,Z,61
+NEW MEXICO,35,2021,June,Drought,Z,230
+NEW MEXICO,35,2021,June,Drought,Z,210
+NEW MEXICO,35,2021,June,Drought,Z,234
+NEW MEXICO,35,2021,June,Drought,Z,233
+NEW MEXICO,35,2021,June,Drought,Z,219
+NEW MEXICO,35,2021,June,Drought,Z,239
+WISCONSIN,55,2021,June,Drought,Z,41
+WISCONSIN,55,2021,June,Drought,Z,55
+NEW MEXICO,35,2021,June,Drought,Z,216
+NEW MEXICO,35,2021,June,Drought,Z,213
+NEW MEXICO,35,2021,June,Drought,Z,237
+NEW MEXICO,35,2021,June,Drought,Z,235
+NEW MEXICO,35,2021,June,Drought,Z,240
+NEW MEXICO,35,2021,June,Drought,Z,224
+TEXAS,48,2021,April,Drought,Z,250
+NEW MEXICO,35,2021,May,Drought,Z,224
+HAWAII,15,2021,June,Drought,Z,40
+NEW MEXICO,35,2021,June,Drought,Z,236
+NEW MEXICO,35,2021,June,Drought,Z,238
+NEW MEXICO,35,2021,June,Drought,Z,225
+NEW MEXICO,35,2021,June,Drought,Z,226
+TEXAS,48,2021,April,Drought,Z,248
+TEXAS,48,2021,April,Drought,Z,249
+TEXAS,48,2021,April,Drought,Z,353
+TEXAS,48,2021,April,Drought,Z,253
+CALIFORNIA,6,2021,March,Drought,Z,194
+CALIFORNIA,6,2021,March,Drought,Z,195
+CALIFORNIA,6,2021,March,Drought,Z,196
+CALIFORNIA,6,2021,March,Drought,Z,198
+IOWA,19,2021,June,Drought,Z,4
+IOWA,19,2021,June,Drought,Z,5
+IOWA,19,2021,June,Drought,Z,39
+IOWA,19,2021,June,Drought,Z,27
+IOWA,19,2021,June,Drought,Z,36
+HAWAII,15,2021,June,Drought,Z,41
+HAWAII,15,2021,June,Drought,Z,16
+HAWAII,15,2021,June,Drought,Z,46
+HAWAII,15,2021,June,Drought,Z,26
+NEW MEXICO,35,2021,June,Drought,Z,206
+NEW MEXICO,35,2021,June,Drought,Z,207
+TEXAS,48,2021,April,Drought,Z,251
+TEXAS,48,2021,April,Drought,Z,254
+TEXAS,48,2021,April,Drought,Z,351
+TEXAS,48,2021,April,Drought,Z,256
+TEXAS,48,2021,February,Drought,Z,250
+IOWA,19,2021,June,Drought,Z,15
+IOWA,19,2021,June,Drought,Z,23
+IOWA,19,2021,June,Drought,Z,61
+IOWA,19,2021,June,Drought,Z,73
+IOWA,19,2021,June,Drought,Z,6
+IOWA,19,2021,June,Drought,Z,7
+NEW MEXICO,35,2021,June,Drought,Z,401
+NEW MEXICO,35,2021,June,Drought,Z,402
+NEW MEXICO,35,2021,June,Drought,Z,403
+IOWA,19,2021,June,Drought,Z,37
+IOWA,19,2021,June,Drought,Z,70
+IOWA,19,2021,June,Drought,Z,71
+TEXAS,48,2021,February,Drought,Z,249
+TEXAS,48,2021,February,Drought,Z,252
+TEXAS,48,2021,February,Drought,Z,248
+TEXAS,48,2021,February,Drought,Z,249
+TEXAS,48,2021,April,Drought,Z,255
+TEXAS,48,2021,April,Drought,Z,253
+TEXAS,48,2021,April,Drought,Z,255
+TEXAS,48,2021,April,Drought,Z,254
+IOWA,19,2021,June,Drought,Z,16
+IOWA,19,2021,June,Drought,Z,17
+IOWA,19,2021,June,Drought,Z,25
+IOWA,19,2021,June,Drought,Z,26
+IOWA,19,2021,June,Drought,Z,28
+NEW MEXICO,35,2021,June,Drought,Z,404
+NEW MEXICO,35,2021,June,Drought,Z,405
+NEW MEXICO,35,2021,June,Drought,Z,406
+NEW MEXICO,35,2021,June,Drought,Z,407
+NEW MEXICO,35,2021,June,Drought,Z,408
+CALIFORNIA,6,2021,June,Drought,Z,179
+CALIFORNIA,6,2021,June,Drought,Z,180
+TEXAS,48,2021,February,Drought,Z,252
+IOWA,19,2021,April,Drought,Z,14
+IOWA,19,2021,April,Drought,Z,1
+IOWA,19,2021,April,Drought,Z,13
+IOWA,19,2021,April,Drought,Z,2
+IOWA,19,2021,April,Drought,Z,20
+IOWA,19,2021,April,Drought,Z,12
+TEXAS,48,2021,April,Drought,Z,252
+TEXAS,48,2021,April,Drought,Z,252
+TEXAS,48,2021,April,Drought,Z,249
+IOWA,19,2021,June,Drought,Z,33
+IOWA,19,2021,June,Drought,Z,34
+IOWA,19,2021,June,Drought,Z,35
+IOWA,19,2021,June,Drought,Z,38
+IOWA,19,2021,June,Drought,Z,45
+NEW MEXICO,35,2021,June,Drought,Z,409
+NEW MEXICO,35,2021,June,Drought,Z,410
+NEW MEXICO,35,2021,June,Drought,Z,411
+NEW MEXICO,35,2021,June,Drought,Z,412
+NEW MEXICO,35,2021,June,Drought,Z,413
+CALIFORNIA,6,2021,June,Drought,Z,181
+CALIFORNIA,6,2021,June,Drought,Z,182
+CALIFORNIA,6,2021,June,Drought,Z,183
+CALIFORNIA,6,2021,June,Drought,Z,184
+CALIFORNIA,6,2021,June,Drought,Z,185
+ILLINOIS,17,2021,June,Drought,Z,13
+ILLINOIS,17,2021,June,Drought,Z,104
+ILLINOIS,17,2021,June,Drought,Z,103
+IOWA,19,2021,April,Drought,Z,21
+IOWA,19,2021,April,Drought,Z,3
+IOWA,19,2021,April,Drought,Z,22
+MINNESOTA,27,2021,April,Drought,Z,98
+SOUTH DAKOTA,46,2021,April,Drought,Z,70
+SOUTH DAKOTA,46,2021,April,Drought,Z,62
+TEXAS,48,2021,April,Drought,Z,250
+TEXAS,48,2021,April,Drought,Z,253
+IOWA,19,2021,June,Drought,Z,46
+IOWA,19,2021,June,Drought,Z,47
+IOWA,19,2021,June,Drought,Z,48
+IOWA,19,2021,June,Drought,Z,49
+IOWA,19,2021,June,Drought,Z,57
+NEW MEXICO,35,2021,June,Drought,Z,414
+NEW MEXICO,35,2021,June,Drought,Z,415
+NEW MEXICO,35,2021,June,Drought,Z,416
+NEW MEXICO,35,2021,June,Drought,Z,417
+TEXAS,48,2021,June,Drought,Z,418
+ILLINOIS,17,2021,June,Drought,Z,6
+ILLINOIS,17,2021,June,Drought,Z,5
+ILLINOIS,17,2021,June,Drought,Z,4
+SOUTH DAKOTA,46,2021,April,Drought,Z,66
+SOUTH DAKOTA,46,2021,April,Drought,Z,67
+SOUTH DAKOTA,46,2021,April,Drought,Z,71
+TEXAS,48,2021,April,Drought,Z,353
+TEXAS,48,2021,April,Drought,Z,251
+TEXAS,48,2021,April,Drought,Z,351
+NEW MEXICO,35,2021,May,Drought,Z,240
+IOWA,19,2021,June,Drought,Z,58
+IOWA,19,2021,June,Drought,Z,59
+IOWA,19,2021,June,Drought,Z,60
+IOWA,19,2021,June,Drought,Z,72
+TEXAS,48,2021,June,Drought,Z,419
+TEXAS,48,2021,June,Drought,Z,420
+TEXAS,48,2021,June,Drought,Z,421
+TEXAS,48,2021,June,Drought,Z,422
+TEXAS,48,2021,June,Drought,Z,423
+TEXAS,48,2021,June,Drought,Z,424
+ILLINOIS,17,2021,June,Drought,Z,3
+ILLINOIS,17,2021,June,Drought,Z,11
+ILLINOIS,17,2021,June,Drought,Z,12
+TEXAS,48,2021,February,Drought,Z,254
+TEXAS,48,2021,February,Drought,Z,250
+TEXAS,48,2021,February,Drought,Z,353
+TEXAS,48,2021,April,Drought,Z,254
+TEXAS,48,2021,April,Drought,Z,256
+TEXAS,48,2021,April,Drought,Z,255
+TEXAS,48,2021,February,Drought,Z,254
+NEW MEXICO,35,2021,May,Drought,Z,225
+NEW MEXICO,35,2021,May,Drought,Z,226
+NEBRASKA,31,2021,June,Drought,Z,10
+NEBRASKA,31,2021,June,Drought,Z,7
+TEXAS,48,2021,April,Drought,Z,91
+TEXAS,48,2021,April,Drought,Z,92
+TEXAS,48,2021,April,Drought,Z,93
+TEXAS,48,2021,April,Drought,Z,145
+TEXAS,48,2021,April,Drought,Z,159
+TEXAS,48,2021,April,Drought,Z,144
+TEXAS,48,2021,April,Drought,Z,143
+TEXAS,48,2021,April,Drought,Z,157
+TEXAS,48,2021,February,Drought,Z,351
+TEXAS,48,2021,February,Drought,Z,253
+TEXAS,48,2021,June,Drought,Z,248
+NEW MEXICO,35,2021,May,Drought,Z,223
+NEW MEXICO,35,2021,May,Drought,Z,202
+WISCONSIN,55,2021,June,Drought,Z,54
+WISCONSIN,55,2021,June,Drought,Z,53
+WISCONSIN,55,2021,June,Drought,Z,42
+TEXAS,48,2021,April,Drought,Z,156
+TEXAS,48,2021,April,Drought,Z,158
+TEXAS,48,2021,April,Drought,Z,101
+TEXAS,48,2021,April,Drought,Z,102
+TEXAS,48,2021,April,Drought,Z,103
+TEXAS,48,2021,April,Drought,Z,134
+TEXAS,48,2021,April,Drought,Z,121
+TEXAS,48,2021,April,Drought,Z,146
+TEXAS,48,2021,April,Drought,Z,135
+TEXAS,48,2021,April,Drought,Z,142
+ARIZONA,4,2021,April,Drought,Z,511
+NEW MEXICO,35,2021,March,Drought,Z,233
+NEW MEXICO,35,2021,March,Drought,Z,237
+ARIZONA,4,2021,April,Drought,Z,502
+COLORADO,8,2021,March,Drought,Z,10
+ARIZONA,4,2021,March,Drought,Z,514
+ARIZONA,4,2021,March,Drought,Z,515
+NEW MEXICO,35,2021,March,Drought,Z,235
+NEW MEXICO,35,2021,March,Drought,Z,236
+NEW MEXICO,35,2021,March,Drought,Z,238
+IOWA,19,2021,March,Drought,Z,4
+IOWA,19,2021,March,Drought,Z,5
+IOWA,19,2021,March,Drought,Z,23
+COLORADO,8,2021,March,Drought,Z,9
+NEW MEXICO,35,2021,April,Drought,Z,404
+MONTANA,30,2021,March,Drought,Z,18
+MONTANA,30,2021,March,Drought,Z,20
+MONTANA,30,2021,March,Drought,Z,62
+TEXAS,48,2021,March,Drought,Z,187
+NEW MEXICO,35,2021,May,Drought,Z,206
+NEW MEXICO,35,2021,May,Drought,Z,207
+NEW MEXICO,35,2021,March,Drought,Z,212
+NEW MEXICO,35,2021,March,Drought,Z,218
+IOWA,19,2021,March,Drought,Z,15
+NEW MEXICO,35,2021,March,Drought,Z,401
+NEW MEXICO,35,2021,March,Drought,Z,402
+NEW MEXICO,35,2021,March,Drought,Z,403
+NEW MEXICO,35,2021,March,Drought,Z,404
+MONTANA,30,2021,March,Drought,Z,24
+MONTANA,30,2021,March,Drought,Z,25
+MONTANA,30,2021,March,Drought,Z,27
+MONTANA,30,2021,March,Drought,Z,26
+TEXAS,48,2021,March,Drought,Z,205
+TEXAS,48,2021,March,Drought,Z,206
+CALIFORNIA,6,2021,March,Drought,Z,16
+CALIFORNIA,6,2021,March,Drought,Z,17
+NEW MEXICO,35,2021,March,Drought,Z,221
+NEW MEXICO,35,2021,March,Drought,Z,222
+NEW MEXICO,35,2021,March,Drought,Z,405
+NEW MEXICO,35,2021,March,Drought,Z,406
+NEW MEXICO,35,2021,March,Drought,Z,407
+NEW MEXICO,35,2021,March,Drought,Z,408
+NEW MEXICO,35,2021,March,Drought,Z,409
+NEW MEXICO,35,2021,March,Drought,Z,410
+TEXAS,48,2021,March,Drought,Z,224
+TEXAS,48,2021,March,Drought,Z,228
+CALIFORNIA,6,2021,March,Drought,Z,63
+NEW MEXICO,35,2021,March,Drought,Z,223
+NEW MEXICO,35,2021,March,Drought,Z,202
+NEW MEXICO,35,2021,March,Drought,Z,411
+NEW MEXICO,35,2021,March,Drought,Z,412
+NEW MEXICO,35,2021,March,Drought,Z,413
+NEW MEXICO,35,2021,March,Drought,Z,414
+NEW MEXICO,35,2021,March,Drought,Z,415
+NEW MEXICO,35,2021,March,Drought,Z,416
+NEW MEXICO,35,2021,March,Drought,Z,417
+IOWA,19,2021,March,Drought,Z,22
+IOWA,19,2021,March,Drought,Z,21
+IOWA,19,2021,March,Drought,Z,14
+IOWA,19,2021,March,Drought,Z,1
+IOWA,19,2021,March,Drought,Z,13
+IOWA,19,2021,March,Drought,Z,2
+IOWA,19,2021,March,Drought,Z,20
+TEXAS,48,2021,March,Drought,Z,209
+TEXAS,48,2021,March,Drought,Z,219
+COLORADO,8,2021,March,Drought,Z,23
+COLORADO,8,2021,March,Drought,Z,19
+COLORADO,8,2021,March,Drought,Z,18
+COLORADO,8,2021,March,Drought,Z,22
+GUAM,98,2021,January,Drought,Z,2
+NEW MEXICO,35,2021,March,Drought,Z,208
+NEW MEXICO,35,2021,March,Drought,Z,209
+TEXAS,48,2021,March,Drought,Z,419
+TEXAS,48,2021,March,Drought,Z,420
+TEXAS,48,2021,March,Drought,Z,421
+TEXAS,48,2021,March,Drought,Z,422
+TEXAS,48,2021,March,Drought,Z,424
+IOWA,19,2021,March,Drought,Z,12
+IOWA,19,2021,March,Drought,Z,3
+IOWA,19,2021,March,Drought,Z,31
+MINNESOTA,27,2021,March,Drought,Z,98
+NEBRASKA,31,2021,March,Drought,Z,13
+NEBRASKA,31,2021,March,Drought,Z,14
+TEXAS,48,2021,March,Drought,Z,189
+TEXAS,48,2021,March,Drought,Z,225
+COLORADO,8,2021,March,Drought,Z,21
+COLORADO,8,2021,March,Drought,Z,11
+COLORADO,8,2021,March,Drought,Z,17
+COLORADO,8,2021,March,Drought,Z,20
+COLORADO,8,2021,March,Drought,Z,14
+ARIZONA,4,2021,April,Drought,Z,512
+NEW MEXICO,35,2021,March,Drought,Z,219
+NEW MEXICO,35,2021,March,Drought,Z,239
+OKLAHOMA,40,2021,March,Drought,Z,50
+MONTANA,30,2021,March,Drought,Z,19
+MONTANA,30,2021,March,Drought,Z,23
+MONTANA,30,2021,March,Drought,Z,17
+TEXAS,48,2021,March,Drought,Z,204
+TEXAS,48,2021,March,Drought,Z,218
+COLORADO,8,2021,March,Drought,Z,6
+COLORADO,8,2021,March,Drought,Z,7
+COLORADO,8,2021,March,Drought,Z,12
+COLORADO,8,2021,March,Drought,Z,3
+COLORADO,8,2021,March,Drought,Z,8
+NEW MEXICO,35,2021,March,Drought,Z,201
+NEW MEXICO,35,2021,March,Drought,Z,205
+NEW MEXICO,35,2021,March,Drought,Z,240
+NEW MEXICO,35,2021,March,Drought,Z,224
+ARIZONA,4,2021,March,Drought,Z,502
+ARIZONA,4,2021,March,Drought,Z,503
+COLORADO,8,2021,March,Drought,Z,4
+COLORADO,8,2021,March,Drought,Z,5
+COLORADO,8,2021,March,Drought,Z,2
+COLORADO,8,2021,March,Drought,Z,1
+COLORADO,8,2021,March,Drought,Z,13
+NEW MEXICO,35,2021,March,Drought,Z,204
+NEW MEXICO,35,2021,March,Drought,Z,203
+NEW MEXICO,35,2021,March,Drought,Z,225
+NEW MEXICO,35,2021,March,Drought,Z,226
+NEW MEXICO,35,2021,March,Drought,Z,206
+ARIZONA,4,2021,March,Drought,Z,504
+ARIZONA,4,2021,March,Drought,Z,505
+NEBRASKA,31,2021,March,Drought,Z,22
+NEBRASKA,31,2021,March,Drought,Z,56
+UTAH,49,2021,March,Drought,Z,22
+UTAH,49,2021,March,Drought,Z,28
+UTAH,49,2021,March,Drought,Z,29
+UTAH,49,2021,March,Drought,Z,27
+UTAH,49,2021,March,Drought,Z,25
+UTAH,49,2021,March,Drought,Z,24
+NEW MEXICO,35,2021,March,Drought,Z,228
+NEW MEXICO,35,2021,March,Drought,Z,230
+NEW MEXICO,35,2021,March,Drought,Z,207
+NEW MEXICO,35,2021,March,Drought,Z,220
+NEW MEXICO,35,2021,March,Drought,Z,241
+ARIZONA,4,2021,March,Drought,Z,506
+ARIZONA,4,2021,March,Drought,Z,507
+NEBRASKA,31,2021,March,Drought,Z,57
+NEBRASKA,31,2021,March,Drought,Z,58
+NEBRASKA,31,2021,March,Drought,Z,69
+UTAH,49,2021,March,Drought,Z,23
+ARIZONA,4,2021,April,Drought,Z,507
+ARIZONA,4,2021,April,Drought,Z,508
+ARIZONA,4,2021,April,Drought,Z,513
+NEW MEXICO,35,2021,March,Drought,Z,210
+NEW MEXICO,35,2021,March,Drought,Z,216
+ARIZONA,4,2021,March,Drought,Z,508
+ARIZONA,4,2021,March,Drought,Z,509
+TEXAS,48,2021,March,Drought,Z,6
+NEBRASKA,31,2021,March,Drought,Z,70
+NEBRASKA,31,2021,March,Drought,Z,71
+ARIZONA,4,2021,April,Drought,Z,509
+NEW MEXICO,35,2021,March,Drought,Z,213
+NEW MEXICO,35,2021,March,Drought,Z,215
+HAWAII,15,2021,March,Drought,Z,13
+HAWAII,15,2021,March,Drought,Z,18
+HAWAII,15,2021,March,Drought,Z,19
+ARIZONA,4,2021,March,Drought,Z,510
+ARIZONA,4,2021,March,Drought,Z,511
+TEXAS,48,2021,March,Drought,Z,28
+TEXAS,48,2021,March,Drought,Z,29
+TEXAS,48,2021,March,Drought,Z,30
+NEW MEXICO,35,2021,May,Drought,Z,220
+NEW MEXICO,35,2021,March,Drought,Z,227
+NEW MEXICO,35,2021,March,Drought,Z,211
+MONTANA,30,2021,March,Drought,Z,61
+MONTANA,30,2021,March,Drought,Z,16
+MONTANA,30,2021,March,Drought,Z,59
+ARIZONA,4,2021,March,Drought,Z,512
+ARIZONA,4,2021,March,Drought,Z,513
+SOUTH DAKOTA,46,2021,March,Drought,Z,70
+SOUTH DAKOTA,46,2021,March,Drought,Z,67
+NEBRASKA,31,2021,April,Drought,Z,81
+TEXAS,48,2021,March,Drought,Z,33
+TEXAS,48,2021,March,Drought,Z,34
+TEXAS,48,2021,March,Drought,Z,35
+ARIZONA,4,2021,April,Drought,Z,514
+NEW MEXICO,35,2021,March,Drought,Z,214
+NEW MEXICO,35,2021,March,Drought,Z,217
+NEW MEXICO,35,2021,May,Drought,Z,241
+SOUTH DAKOTA,46,2021,March,Drought,Z,62
+SOUTH DAKOTA,46,2021,March,Drought,Z,66
+SOUTH DAKOTA,46,2021,March,Drought,Z,71
+SOUTH DAKOTA,46,2021,March,Drought,Z,55
+SOUTH DAKOTA,46,2021,March,Drought,Z,61
+SOUTH DAKOTA,46,2021,March,Drought,Z,56
+SOUTH DAKOTA,46,2021,March,Drought,Z,69
+TEXAS,48,2021,March,Drought,Z,39
+TEXAS,48,2021,March,Drought,Z,40
+TEXAS,48,2021,March,Drought,Z,41
+NEW MEXICO,35,2021,March,Drought,Z,231
+NEW MEXICO,35,2021,March,Drought,Z,232
+TEXAS,48,2021,March,Drought,Z,21
+TEXAS,48,2021,March,Drought,Z,22
+ARIZONA,4,2021,April,Drought,Z,510
+NEW MEXICO,35,2021,March,Drought,Z,229
+NEW MEXICO,35,2021,March,Drought,Z,234
+ARIZONA,4,2021,April,Drought,Z,515
+CALIFORNIA,6,2021,March,Drought,Z,13
+CALIFORNIA,6,2021,March,Drought,Z,15
+TEXAS,48,2021,March,Drought,Z,23
+TEXAS,48,2021,March,Drought,Z,24
+TEXAS,48,2021,March,Drought,Z,27
+TEXAS,48,2021,January,Drought,Z,253
+TEXAS,48,2021,January,Drought,Z,15
+TEXAS,48,2021,January,Drought,Z,16
+COLORADO,8,2021,January,Drought,Z,23
+COLORADO,8,2021,January,Drought,Z,19
+COLORADO,8,2021,January,Drought,Z,18
+NEW MEXICO,35,2021,January,Drought,Z,411
+NEW MEXICO,35,2021,January,Drought,Z,412
+NEW MEXICO,35,2021,January,Drought,Z,413
+NEW MEXICO,35,2021,January,Drought,Z,414
+NEW MEXICO,35,2021,January,Drought,Z,415
+NEW MEXICO,35,2021,January,Drought,Z,416
+NEW MEXICO,35,2021,January,Drought,Z,233
+NEW MEXICO,35,2021,January,Drought,Z,237
+TEXAS,48,2021,January,Drought,Z,27
+TEXAS,48,2021,January,Drought,Z,28
+COLORADO,8,2021,May,Drought,Z,19
+COLORADO,8,2021,May,Drought,Z,22
+COLORADO,8,2021,May,Drought,Z,11
+COLORADO,8,2021,May,Drought,Z,17
+COLORADO,8,2021,May,Drought,Z,9
+COLORADO,8,2021,May,Drought,Z,20
+COLORADO,8,2021,May,Drought,Z,14
+TEXAS,48,2021,January,Drought,Z,250
+TEXAS,48,2021,January,Drought,Z,17
+TEXAS,48,2021,January,Drought,Z,18
+COLORADO,8,2021,January,Drought,Z,22
+COLORADO,8,2021,January,Drought,Z,21
+COLORADO,8,2021,January,Drought,Z,11
+COLORADO,8,2021,January,Drought,Z,17
+COLORADO,8,2021,January,Drought,Z,9
+NEW MEXICO,35,2021,January,Drought,Z,417
+TEXAS,48,2021,January,Drought,Z,418
+TEXAS,48,2021,January,Drought,Z,419
+TEXAS,48,2021,January,Drought,Z,420
+TEXAS,48,2021,January,Drought,Z,421
+TEXAS,48,2021,January,Drought,Z,422
+TEXAS,48,2021,January,Drought,Z,423
+NEW MEXICO,35,2021,January,Drought,Z,235
+NEW MEXICO,35,2021,January,Drought,Z,236
+TEXAS,48,2021,January,Drought,Z,29
+TEXAS,48,2021,January,Drought,Z,33
+MONTANA,30,2021,May,Drought,Z,19
+MONTANA,30,2021,May,Drought,Z,62
+MONTANA,30,2021,May,Drought,Z,24
+IOWA,19,2021,May,Drought,Z,4
+IOWA,19,2021,May,Drought,Z,5
+IOWA,19,2021,May,Drought,Z,23
+IOWA,19,2021,May,Drought,Z,15
+NEBRASKA,31,2021,January,Drought,Z,22
+NEBRASKA,31,2021,January,Drought,Z,57
+COLORADO,8,2021,May,Drought,Z,6
+COLORADO,8,2021,May,Drought,Z,7
+COLORADO,8,2021,May,Drought,Z,10
+COLORADO,8,2021,May,Drought,Z,3
+COLORADO,8,2021,May,Drought,Z,8
+COLORADO,8,2021,May,Drought,Z,4
+COLORADO,8,2021,May,Drought,Z,5
+COLORADO,8,2021,May,Drought,Z,2
+TEXAS,48,2021,January,Drought,Z,353
+TEXAS,48,2021,January,Drought,Z,353
+TEXAS,48,2021,January,Drought,Z,250
+COLORADO,8,2021,January,Drought,Z,20
+COLORADO,8,2021,January,Drought,Z,14
+COLORADO,8,2021,January,Drought,Z,6
+COLORADO,8,2021,January,Drought,Z,7
+COLORADO,8,2021,January,Drought,Z,12
+TEXAS,48,2021,January,Drought,Z,424
+OKLAHOMA,40,2021,January,Drought,Z,14
+OKLAHOMA,40,2021,January,Drought,Z,21
+IOWA,19,2021,January,Drought,Z,5
+IOWA,19,2021,January,Drought,Z,23
+NEW MEXICO,35,2021,January,Drought,Z,238
+NEW MEXICO,35,2021,January,Drought,Z,212
+TEXAS,48,2021,January,Drought,Z,34
+TEXAS,48,2021,January,Drought,Z,35
+MONTANA,30,2021,May,Drought,Z,25
+MONTANA,30,2021,May,Drought,Z,27
+MONTANA,30,2021,May,Drought,Z,61
+MONTANA,30,2021,May,Drought,Z,26
+MONTANA,30,2021,May,Drought,Z,20
+MONTANA,30,2021,May,Drought,Z,17
+COLORADO,8,2021,May,Drought,Z,1
+COLORADO,8,2021,May,Drought,Z,13
+UTAH,49,2021,May,Drought,Z,22
+UTAH,49,2021,May,Drought,Z,28
+UTAH,49,2021,May,Drought,Z,29
+UTAH,49,2021,May,Drought,Z,27
+UTAH,49,2021,May,Drought,Z,25
+UTAH,49,2021,May,Drought,Z,24
+UTAH,49,2021,May,Drought,Z,23
+TEXAS,48,2021,January,Drought,Z,249
+TEXAS,48,2021,January,Drought,Z,249
+TEXAS,48,2021,January,Drought,Z,252
+COLORADO,8,2021,January,Drought,Z,10
+COLORADO,8,2021,January,Drought,Z,3
+COLORADO,8,2021,January,Drought,Z,8
+COLORADO,8,2021,January,Drought,Z,4
+COLORADO,8,2021,January,Drought,Z,5
+TEXAS,48,2021,January,Drought,Z,187
+TEXAS,48,2021,January,Drought,Z,205
+TEXAS,48,2021,January,Drought,Z,206
+OKLAHOMA,40,2021,January,Drought,Z,34
+OKLAHOMA,40,2021,January,Drought,Z,33
+IOWA,19,2021,January,Drought,Z,33
+IOWA,19,2021,January,Drought,Z,34
+IOWA,19,2021,January,Drought,Z,45
+IOWA,19,2021,January,Drought,Z,57
+IOWA,19,2021,January,Drought,Z,58
+IOWA,19,2021,January,Drought,Z,70
+NEW MEXICO,35,2021,January,Drought,Z,218
+NEW MEXICO,35,2021,January,Drought,Z,221
+NEW MEXICO,35,2021,January,Drought,Z,216
+NEW MEXICO,35,2021,January,Drought,Z,234
+TEXAS,48,2021,January,Drought,Z,39
+TEXAS,48,2021,January,Drought,Z,40
+MONTANA,30,2021,May,Drought,Z,23
+MONTANA,30,2021,May,Drought,Z,22
+MONTANA,30,2021,May,Drought,Z,16
+MONTANA,30,2021,May,Drought,Z,21
+IOWA,19,2021,January,Drought,Z,22
+IOWA,19,2021,January,Drought,Z,14
+MINNESOTA,27,2021,January,Drought,Z,98
+TEXAS,48,2021,January,Drought,Z,142
+TEXAS,48,2021,January,Drought,Z,250
+TEXAS,48,2021,January,Drought,Z,353
+COLORADO,8,2021,January,Drought,Z,2
+COLORADO,8,2021,January,Drought,Z,1
+COLORADO,8,2021,January,Drought,Z,13
+UTAH,49,2021,January,Drought,Z,22
+UTAH,49,2021,January,Drought,Z,28
+TEXAS,48,2021,January,Drought,Z,203
+TEXAS,48,2021,January,Drought,Z,228
+TEXAS,48,2021,January,Drought,Z,219
+MONTANA,30,2021,January,Drought,Z,25
+MONTANA,30,2021,January,Drought,Z,26
+NEW MEXICO,35,2021,January,Drought,Z,222
+NEW MEXICO,35,2021,January,Drought,Z,223
+TEXAS,48,2021,January,Drought,Z,41
+TEXAS,48,2021,January,Drought,Z,253
+TEXAS,48,2021,January,Drought,Z,251
+TEXAS,48,2021,January,Drought,Z,20
+TEXAS,48,2021,January,Drought,Z,14
+UTAH,49,2021,January,Drought,Z,29
+UTAH,49,2021,January,Drought,Z,27
+UTAH,49,2021,January,Drought,Z,25
+UTAH,49,2021,January,Drought,Z,24
+UTAH,49,2021,January,Drought,Z,23
+TEXAS,48,2021,January,Drought,Z,204
+TEXAS,48,2021,January,Drought,Z,218
+TEXAS,48,2021,January,Drought,Z,193
+TEXAS,48,2021,January,Drought,Z,252
+TEXAS,48,2021,January,Drought,Z,353
+NEW MEXICO,35,2021,January,Drought,Z,202
+NEW MEXICO,35,2021,January,Drought,Z,208
+TEXAS,48,2021,January,Drought,Z,19
+TEXAS,48,2021,January,Drought,Z,190
+TEXAS,48,2021,January,Drought,Z,172
+TEXAS,48,2021,January,Drought,Z,208
+TEXAS,48,2021,January,Drought,Z,184
+TEXAS,48,2021,January,Drought,Z,254
+TEXAS,48,2021,January,Drought,Z,251
+NEW MEXICO,35,2021,January,Drought,Z,209
+NEW MEXICO,35,2021,January,Drought,Z,219
+TEXAS,48,2021,January,Drought,Z,209
+TEXAS,48,2021,January,Drought,Z,188
+TEXAS,48,2021,January,Drought,Z,207
+TEXAS,48,2021,January,Drought,Z,191
+NEW MEXICO,35,2021,January,Drought,Z,239
+NEW MEXICO,35,2021,January,Drought,Z,240
+SOUTH DAKOTA,46,2021,January,Drought,Z,63
+SOUTH DAKOTA,46,2021,January,Drought,Z,68
+NEBRASKA,31,2021,January,Drought,Z,4
+TEXAS,48,2021,January,Drought,Z,154
+TEXAS,48,2021,January,Drought,Z,170
+TEXAS,48,2021,January,Drought,Z,169
+TEXAS,48,2021,January,Drought,Z,168
+TEXAS,48,2021,January,Drought,Z,255
+TEXAS,48,2021,January,Drought,Z,250
+TEXAS,48,2021,January,Drought,Z,189
+TEXAS,48,2021,January,Drought,Z,186
+TEXAS,48,2021,January,Drought,Z,202
+TEXAS,48,2021,January,Drought,Z,194
+NEW MEXICO,35,2021,January,Drought,Z,201
+NEW MEXICO,35,2021,January,Drought,Z,205
+NEW MEXICO,35,2021,January,Drought,Z,224
+NEW MEXICO,35,2021,January,Drought,Z,225
+NEW MEXICO,35,2021,January,Drought,Z,407
+NEBRASKA,31,2021,January,Drought,Z,56
+NEBRASKA,31,2021,January,Drought,Z,23
+NEBRASKA,31,2021,January,Drought,Z,35
+TEXAS,48,2021,January,Drought,Z,248
+TEXAS,48,2021,January,Drought,Z,171
+TEXAS,48,2021,January,Drought,Z,217
+TEXAS,48,2021,January,Drought,Z,185
+TEXAS,48,2021,January,Drought,Z,192
+IOWA,19,2021,January,Drought,Z,21
+IOWA,19,2021,January,Drought,Z,3
+IOWA,19,2021,January,Drought,Z,32
+IOWA,19,2021,January,Drought,Z,31
+IOWA,19,2021,January,Drought,Z,1
+IOWA,19,2021,January,Drought,Z,13
+IOWA,19,2021,January,Drought,Z,2
+NEW MEXICO,35,2021,January,Drought,Z,204
+NEW MEXICO,35,2021,January,Drought,Z,203
+NEW MEXICO,35,2021,January,Drought,Z,226
+NEW MEXICO,35,2021,January,Drought,Z,206
+NEBRASKA,31,2021,January,Drought,Z,58
+NEBRASKA,31,2021,January,Drought,Z,69
+NEBRASKA,31,2021,January,Drought,Z,70
+TEXAS,48,2021,January,Drought,Z,249
+TEXAS,48,2021,January,Drought,Z,183
+TEXAS,48,2021,January,Drought,Z,173
+IOWA,19,2021,January,Drought,Z,20
+IOWA,19,2021,January,Drought,Z,12
+NEBRASKA,31,2021,January,Drought,Z,14
+NEBRASKA,31,2021,January,Drought,Z,13
+SOUTH DAKOTA,46,2021,January,Drought,Z,50
+SOUTH DAKOTA,46,2021,January,Drought,Z,65
+SOUTH DAKOTA,46,2021,January,Drought,Z,55
+SOUTH DAKOTA,46,2021,January,Drought,Z,61
+SOUTH DAKOTA,46,2021,January,Drought,Z,56
+NEW MEXICO,35,2021,January,Drought,Z,228
+NEW MEXICO,35,2021,January,Drought,Z,230
+NEW MEXICO,35,2021,January,Drought,Z,207
+NEW MEXICO,35,2021,January,Drought,Z,220
+IOWA,19,2021,January,Drought,Z,4
+IOWA,19,2021,January,Drought,Z,15
+IOWA,19,2021,January,Drought,Z,44
+IOWA,19,2021,January,Drought,Z,71
+NEBRASKA,31,2021,January,Drought,Z,59
+NEBRASKA,31,2021,January,Drought,Z,71
+TEXAS,48,2021,January,Drought,Z,239
+TEXAS,48,2021,January,Drought,Z,229
+SOUTH DAKOTA,46,2021,January,Drought,Z,69
+SOUTH DAKOTA,46,2021,January,Drought,Z,70
+SOUTH DAKOTA,46,2021,January,Drought,Z,67
+SOUTH DAKOTA,46,2021,January,Drought,Z,62
+SOUTH DAKOTA,46,2021,January,Drought,Z,66
+SOUTH DAKOTA,46,2021,January,Drought,Z,71
+NEW MEXICO,35,2021,January,Drought,Z,210
+NEW MEXICO,35,2021,January,Drought,Z,213
+NEW MEXICO,35,2021,January,Drought,Z,241
+IOWA,19,2021,January,Drought,Z,81
+NEBRASKA,31,2021,January,Drought,Z,38
+NEBRASKA,31,2021,January,Drought,Z,28
+NEBRASKA,31,2021,January,Drought,Z,29
+TEXAS,48,2021,January,Drought,Z,240
+TEXAS,48,2021,January,Drought,Z,344
+TEXAS,48,2021,January,Drought,Z,343
+TEXAS,48,2021,January,Drought,Z,443
+NEW MEXICO,35,2021,January,Drought,Z,215
+NEW MEXICO,35,2021,January,Drought,Z,227
+MONTANA,30,2021,January,Drought,Z,19
+MONTANA,30,2021,January,Drought,Z,62
+MONTANA,30,2021,January,Drought,Z,18
+MONTANA,30,2021,January,Drought,Z,24
+MONTANA,30,2021,January,Drought,Z,20
+TEXAS,48,2021,January,Drought,Z,252
+CALIFORNIA,6,2021,January,Drought,Z,13
+NEW MEXICO,35,2021,January,Drought,Z,211
+NEW MEXICO,35,2021,January,Drought,Z,214
+MONTANA,30,2021,January,Drought,Z,27
+NEW MEXICO,35,2021,January,Drought,Z,401
+NEW MEXICO,35,2021,January,Drought,Z,402
+NEW MEXICO,35,2021,January,Drought,Z,403
+HAWAII,15,2021,January,Drought,Z,15
+CALIFORNIA,6,2021,January,Drought,Z,15
+CALIFORNIA,6,2021,January,Drought,Z,16
+NEW MEXICO,35,2021,January,Drought,Z,217
+NEW MEXICO,35,2021,January,Drought,Z,231
+TEXAS,48,2021,January,Drought,Z,21
+NEBRASKA,31,2021,May,Drought,Z,69
+NEBRASKA,31,2021,May,Drought,Z,70
+NEBRASKA,31,2021,May,Drought,Z,59
+COLORADO,8,2021,May,Drought,Z,23
+OKLAHOMA,40,2021,January,Drought,Z,1
+NEW MEXICO,35,2021,January,Drought,Z,404
+NEW MEXICO,35,2021,January,Drought,Z,405
+NEW MEXICO,35,2021,January,Drought,Z,406
+NEW MEXICO,35,2021,January,Drought,Z,408
+NEW MEXICO,35,2021,January,Drought,Z,409
+NEW MEXICO,35,2021,January,Drought,Z,410
+HAWAII,15,2021,January,Drought,Z,17
+HAWAII,15,2021,January,Drought,Z,22
+HAWAII,15,2021,January,Drought,Z,13
+HAWAII,15,2021,January,Drought,Z,14
+HAWAII,15,2021,January,Drought,Z,16
+HAWAII,15,2021,January,Drought,Z,18
+HAWAII,15,2021,January,Drought,Z,19
+HAWAII,15,2021,January,Drought,Z,21
+HAWAII,15,2021,January,Drought,Z,26
+CALIFORNIA,6,2021,January,Drought,Z,17
+CALIFORNIA,6,2021,January,Drought,Z,63
+NEW MEXICO,35,2021,January,Drought,Z,232
+NEW MEXICO,35,2021,January,Drought,Z,229
+TEXAS,48,2021,January,Drought,Z,22
+TEXAS,48,2021,January,Drought,Z,23
+NEW MEXICO,35,2021,February,Drought,Z,235
+NEW MEXICO,35,2021,February,Drought,Z,236
+NEW MEXICO,35,2021,February,Drought,Z,238
+CALIFORNIA,6,2021,February,Drought,Z,15
+CALIFORNIA,6,2021,February,Drought,Z,16
+NEW MEXICO,35,2021,February,Drought,Z,212
+NEW MEXICO,35,2021,February,Drought,Z,218
+NEW MEXICO,35,2021,February,Drought,Z,221
+CALIFORNIA,6,2021,February,Drought,Z,17
+CALIFORNIA,6,2021,February,Drought,Z,63
+NEW MEXICO,35,2021,February,Drought,Z,234
+HAWAII,15,2021,February,Drought,Z,14
+HAWAII,15,2021,February,Drought,Z,16
+HAWAII,15,2021,February,Drought,Z,21
+HAWAII,15,2021,February,Drought,Z,26
+NEW MEXICO,35,2021,February,Drought,Z,222
+NEW MEXICO,35,2021,February,Drought,Z,223
+NEW MEXICO,35,2021,February,Drought,Z,202
+GUAM,98,2021,February,Drought,Z,3
+NEW MEXICO,35,2021,February,Drought,Z,208
+NEW MEXICO,35,2021,February,Drought,Z,209
+NEW MEXICO,35,2021,February,Drought,Z,219
+COLORADO,8,2021,February,Drought,Z,11
+NEW MEXICO,35,2021,February,Drought,Z,401
+NEW MEXICO,35,2021,February,Drought,Z,402
+NEW MEXICO,35,2021,February,Drought,Z,239
+NEW MEXICO,35,2021,February,Drought,Z,240
+NEW MEXICO,35,2021,February,Drought,Z,224
+NEW MEXICO,35,2021,February,Drought,Z,403
+NEW MEXICO,35,2021,February,Drought,Z,404
+NEW MEXICO,35,2021,February,Drought,Z,405
+NEW MEXICO,35,2021,February,Drought,Z,406
+NEW MEXICO,35,2021,February,Drought,Z,407
+NEW MEXICO,35,2021,February,Drought,Z,408
+NEW MEXICO,35,2021,February,Drought,Z,225
+NEW MEXICO,35,2021,February,Drought,Z,226
+NEW MEXICO,35,2021,February,Drought,Z,206
+TEXAS,48,2021,February,Drought,Z,118
+TEXAS,48,2021,February,Drought,Z,102
+TEXAS,48,2021,February,Drought,Z,117
+NEW MEXICO,35,2021,February,Drought,Z,409
+NEW MEXICO,35,2021,February,Drought,Z,410
+NEW MEXICO,35,2021,February,Drought,Z,411
+NEW MEXICO,35,2021,February,Drought,Z,412
+NEW MEXICO,35,2021,February,Drought,Z,413
+NEW MEXICO,35,2021,February,Drought,Z,414
+NEW MEXICO,35,2021,February,Drought,Z,207
+NEW MEXICO,35,2021,February,Drought,Z,220
+NEW MEXICO,35,2021,February,Drought,Z,241
+HAWAII,15,2021,February,Drought,Z,13
+HAWAII,15,2021,February,Drought,Z,18
+HAWAII,15,2021,February,Drought,Z,19
+COLORADO,8,2021,February,Drought,Z,23
+COLORADO,8,2021,February,Drought,Z,19
+NEW MEXICO,35,2021,February,Drought,Z,415
+NEW MEXICO,35,2021,February,Drought,Z,416
+NEW MEXICO,35,2021,February,Drought,Z,417
+TEXAS,48,2021,February,Drought,Z,418
+TEXAS,48,2021,February,Drought,Z,419
+TEXAS,48,2021,February,Drought,Z,420
+TEXAS,48,2021,February,Drought,Z,421
+COLORADO,8,2021,February,Drought,Z,18
+COLORADO,8,2021,February,Drought,Z,22
+COLORADO,8,2021,February,Drought,Z,21
+TEXAS,48,2021,February,Drought,Z,422
+TEXAS,48,2021,February,Drought,Z,423
+TEXAS,48,2021,February,Drought,Z,424
+COLORADO,8,2021,February,Drought,Z,17
+COLORADO,8,2021,February,Drought,Z,9
+COLORADO,8,2021,February,Drought,Z,20
+NEW MEXICO,35,2021,February,Drought,Z,201
+OKLAHOMA,40,2021,May,Drought,Z,23
+OKLAHOMA,40,2021,May,Drought,Z,24
+COLORADO,8,2021,February,Drought,Z,14
+COLORADO,8,2021,February,Drought,Z,6
+COLORADO,8,2021,February,Drought,Z,7
+NEW MEXICO,35,2021,February,Drought,Z,205
+NEW MEXICO,35,2021,February,Drought,Z,204
+NEW MEXICO,35,2021,February,Drought,Z,203
+IOWA,19,2021,February,Drought,Z,22
+IOWA,19,2021,February,Drought,Z,21
+IOWA,19,2021,February,Drought,Z,14
+IOWA,19,2021,February,Drought,Z,3
+IOWA,19,2021,February,Drought,Z,32
+COLORADO,8,2021,February,Drought,Z,12
+COLORADO,8,2021,February,Drought,Z,10
+COLORADO,8,2021,February,Drought,Z,3
+NEW MEXICO,35,2021,February,Drought,Z,228
+NEW MEXICO,35,2021,February,Drought,Z,230
+NEW MEXICO,35,2021,February,Drought,Z,210
+MINNESOTA,27,2021,February,Drought,Z,98
+NEBRASKA,31,2021,February,Drought,Z,14
+NEBRASKA,31,2021,February,Drought,Z,13
+SOUTH DAKOTA,46,2021,February,Drought,Z,68
+SOUTH DAKOTA,46,2021,February,Drought,Z,65
+SOUTH DAKOTA,46,2021,February,Drought,Z,55
+SOUTH DAKOTA,46,2021,February,Drought,Z,61
+IOWA,19,2021,February,Drought,Z,1
+IOWA,19,2021,February,Drought,Z,13
+IOWA,19,2021,February,Drought,Z,2
+IOWA,19,2021,February,Drought,Z,20
+IOWA,19,2021,February,Drought,Z,12
+IOWA,19,2021,February,Drought,Z,31
+HAWAII,15,2021,May,Drought,Z,26
+COLORADO,8,2021,February,Drought,Z,8
+COLORADO,8,2021,February,Drought,Z,4
+COLORADO,8,2021,February,Drought,Z,5
+NEW MEXICO,35,2021,February,Drought,Z,216
+NEW MEXICO,35,2021,February,Drought,Z,213
+NEW MEXICO,35,2021,February,Drought,Z,215
+SOUTH DAKOTA,46,2021,February,Drought,Z,56
+SOUTH DAKOTA,46,2021,February,Drought,Z,69
+SOUTH DAKOTA,46,2021,February,Drought,Z,70
+SOUTH DAKOTA,46,2021,February,Drought,Z,67
+SOUTH DAKOTA,46,2021,February,Drought,Z,62
+SOUTH DAKOTA,46,2021,February,Drought,Z,66
+SOUTH DAKOTA,46,2021,February,Drought,Z,71
+TEXAS,48,2021,February,Drought,Z,232
+TEXAS,48,2021,February,Drought,Z,233
+TEXAS,48,2021,February,Drought,Z,241
+COLORADO,8,2021,February,Drought,Z,2
+COLORADO,8,2021,February,Drought,Z,1
+COLORADO,8,2021,February,Drought,Z,13
+NEW MEXICO,35,2021,February,Drought,Z,227
+NEW MEXICO,35,2021,February,Drought,Z,211
+NEW MEXICO,35,2021,February,Drought,Z,214
+TEXAS,48,2021,February,Drought,Z,231
+TEXAS,48,2021,February,Drought,Z,230
+TEXAS,48,2021,February,Drought,Z,234
+TEXAS,48,2021,February,Drought,Z,244
+TEXAS,48,2021,February,Drought,Z,243
+TEXAS,48,2021,February,Drought,Z,242
+TEXAS,48,2021,February,Drought,Z,342
+UTAH,49,2021,February,Drought,Z,22
+UTAH,49,2021,February,Drought,Z,28
+UTAH,49,2021,February,Drought,Z,29
+UTAH,49,2021,February,Drought,Z,27
+NEW MEXICO,35,2021,February,Drought,Z,217
+NEW MEXICO,35,2021,February,Drought,Z,231
+NEW MEXICO,35,2021,February,Drought,Z,232
+UTAH,49,2021,February,Drought,Z,25
+UTAH,49,2021,February,Drought,Z,24
+UTAH,49,2021,February,Drought,Z,23
+NEW MEXICO,35,2021,February,Drought,Z,229
+NEW MEXICO,35,2021,February,Drought,Z,233
+NEW MEXICO,35,2021,February,Drought,Z,237
+CALIFORNIA,6,2021,February,Drought,Z,13
+COLORADO,8,2021,May,Drought,Z,21
+COLORADO,8,2021,May,Drought,Z,18
+TEXAS,48,2021,May,Drought,Z,39
+TEXAS,48,2021,May,Drought,Z,252
+TEXAS,48,2021,May,Drought,Z,353
+TEXAS,48,2021,May,Drought,Z,251
+HAWAII,15,2021,June,Drought,Z,39
+HAWAII,15,2021,June,Drought,Z,43
+HAWAII,15,2021,June,Drought,Z,44
+HAWAII,15,2021,June,Drought,Z,50
+HAWAII,15,2021,June,Drought,Z,45
+HAWAII,15,2021,June,Drought,Z,54
+COLORADO,8,2021,May,Drought,Z,12
+MONTANA,30,2021,July,Drought,Z,60
+TEXAS,48,2021,May,Drought,Z,253
+TEXAS,48,2021,May,Drought,Z,254
+TEXAS,48,2021,May,Drought,Z,255
+OKLAHOMA,40,2021,May,Drought,Z,1
+TEXAS,48,2021,May,Drought,Z,16
+TEXAS,48,2021,May,Drought,Z,250
+TEXAS,48,2021,May,Drought,Z,248
+TEXAS,48,2021,May,Drought,Z,249
+TEXAS,48,2021,May,Drought,Z,252
+MINNESOTA,27,2021,July,Drought,Z,37
+MINNESOTA,27,2021,July,Drought,Z,35
+MINNESOTA,27,2021,July,Drought,Z,36
+MINNESOTA,27,2021,July,Drought,Z,26
+TEXAS,48,2021,May,Drought,Z,17
+TEXAS,48,2021,May,Drought,Z,353
+TEXAS,48,2021,May,Drought,Z,250
+TEXAS,48,2021,May,Drought,Z,251
+TEXAS,48,2021,May,Drought,Z,248
+MONTANA,30,2021,May,Drought,Z,59
+MONTANA,30,2021,May,Drought,Z,18
+MINNESOTA,27,2021,July,Drought,Z,12
+MINNESOTA,27,2021,July,Drought,Z,21
+MINNESOTA,27,2021,July,Drought,Z,20
+TEXAS,48,2021,May,Drought,Z,249
+TEXAS,48,2021,May,Drought,Z,252
+CALIFORNIA,6,2021,May,Drought,Z,179
+CALIFORNIA,6,2021,May,Drought,Z,180
+CALIFORNIA,6,2021,May,Drought,Z,13
+NEBRASKA,31,2021,May,Drought,Z,58
+NEBRASKA,31,2021,May,Drought,Z,71
+NORTH DAKOTA,38,2021,May,Drought,Z,32
+CALIFORNIA,6,2021,May,Drought,Z,181
+CALIFORNIA,6,2021,May,Drought,Z,182
+CALIFORNIA,6,2021,May,Drought,Z,183
+CALIFORNIA,6,2021,May,Drought,Z,184
+CALIFORNIA,6,2021,May,Drought,Z,185
+CALIFORNIA,6,2021,May,Drought,Z,186
+MONTANA,30,2021,July,Drought,Z,19
+CALIFORNIA,6,2021,May,Drought,Z,19
+CALIFORNIA,6,2021,May,Drought,Z,18
+NORTH DAKOTA,38,2021,May,Drought,Z,4
+NORTH DAKOTA,38,2021,May,Drought,Z,43
+NORTH DAKOTA,38,2021,May,Drought,Z,2
+NORTH DAKOTA,38,2021,May,Drought,Z,35
+CALIFORNIA,6,2021,May,Drought,Z,187
+CALIFORNIA,6,2021,May,Drought,Z,188
+CALIFORNIA,6,2021,May,Drought,Z,189
+CALIFORNIA,6,2021,May,Drought,Z,190
+CALIFORNIA,6,2021,May,Drought,Z,191
+CALIFORNIA,6,2021,May,Drought,Z,192
+CALIFORNIA,6,2021,May,Drought,Z,63
+CALIFORNIA,6,2021,May,Drought,Z,17
+NORTH DAKOTA,38,2021,May,Drought,Z,51
+NORTH DAKOTA,38,2021,May,Drought,Z,1
+NORTH DAKOTA,38,2021,May,Drought,Z,18
+NORTH DAKOTA,38,2021,May,Drought,Z,46
+CALIFORNIA,6,2021,May,Drought,Z,193
+CALIFORNIA,6,2021,May,Drought,Z,194
+CALIFORNIA,6,2021,May,Drought,Z,195
+CALIFORNIA,6,2021,May,Drought,Z,196
+CALIFORNIA,6,2021,May,Drought,Z,197
+CALIFORNIA,6,2021,May,Drought,Z,198
+CALIFORNIA,6,2021,May,Drought,Z,14
+CALIFORNIA,6,2021,May,Drought,Z,16
+ILLINOIS,17,2021,May,Drought,Z,6
+NORTH DAKOTA,38,2021,May,Drought,Z,25
+NORTH DAKOTA,38,2021,May,Drought,Z,31
+NORTH DAKOTA,38,2021,May,Drought,Z,42
+NORTH DAKOTA,38,2021,May,Drought,Z,41
+MONTANA,30,2021,June,Drought,Z,20
+CALIFORNIA,6,2021,May,Drought,Z,199
+TEXAS,48,2021,May,Drought,Z,18
+CALIFORNIA,6,2021,May,Drought,Z,66
+CALIFORNIA,6,2021,May,Drought,Z,15
+ILLINOIS,17,2021,May,Drought,Z,5
+ILLINOIS,17,2021,May,Drought,Z,12
+ILLINOIS,17,2021,May,Drought,Z,13
+NORTH DAKOTA,38,2021,May,Drought,Z,36
+NORTH DAKOTA,38,2021,May,Drought,Z,48
+NORTH DAKOTA,38,2021,May,Drought,Z,47
+NORTH DAKOTA,38,2021,May,Drought,Z,12
+CALIFORNIA,6,2021,May,Drought,Z,68
+CALIFORNIA,6,2021,May,Drought,Z,67
+ILLINOIS,17,2021,May,Drought,Z,103
+ILLINOIS,17,2021,May,Drought,Z,104
+NORTH DAKOTA,38,2021,May,Drought,Z,50
+NORTH DAKOTA,38,2021,May,Drought,Z,21
+NORTH DAKOTA,38,2021,May,Drought,Z,19
+NORTH DAKOTA,38,2021,May,Drought,Z,34
+IOWA,19,2021,May,Drought,Z,22
+IOWA,19,2021,May,Drought,Z,21
+IOWA,19,2021,May,Drought,Z,14
+IOWA,19,2021,May,Drought,Z,3
+IOWA,19,2021,May,Drought,Z,1
+IOWA,19,2021,May,Drought,Z,13
+IOWA,19,2021,May,Drought,Z,2
+IOWA,19,2021,May,Drought,Z,20
+IOWA,19,2021,May,Drought,Z,12
+SOUTH DAKOTA,46,2021,May,Drought,Z,67
+CALIFORNIA,6,2021,May,Drought,Z,69
+NORTH DAKOTA,38,2021,May,Drought,Z,10
+NORTH DAKOTA,38,2021,May,Drought,Z,20
+NORTH DAKOTA,38,2021,May,Drought,Z,13
+NORTH DAKOTA,38,2021,May,Drought,Z,3
+SOUTH DAKOTA,46,2021,May,Drought,Z,6
+SOUTH DAKOTA,46,2021,May,Drought,Z,5
+SOUTH DAKOTA,46,2021,May,Drought,Z,10
+SOUTH DAKOTA,46,2021,May,Drought,Z,17
+SOUTH DAKOTA,46,2021,May,Drought,Z,71
+TEXAS,48,2021,May,Drought,Z,248
+NORTH DAKOTA,38,2021,May,Drought,Z,5
+NORTH DAKOTA,38,2021,May,Drought,Z,22
+NORTH DAKOTA,38,2021,May,Drought,Z,45
+NORTH DAKOTA,38,2021,May,Drought,Z,40
+SOUTH DAKOTA,46,2021,May,Drought,Z,36
+SOUTH DAKOTA,46,2021,May,Drought,Z,4
+SOUTH DAKOTA,46,2021,May,Drought,Z,33
+SOUTH DAKOTA,46,2021,May,Drought,Z,34
+TEXAS,48,2021,May,Drought,Z,21
+TEXAS,48,2021,May,Drought,Z,249
+TEXAS,48,2021,May,Drought,Z,252
+TEXAS,48,2021,May,Drought,Z,250
+MONTANA,30,2021,July,Drought,Z,18
+MONTANA,30,2021,July,Drought,Z,62
+MONTANA,30,2021,July,Drought,Z,24
+MONTANA,30,2021,July,Drought,Z,59
+NORTH DAKOTA,38,2021,May,Drought,Z,33
+NORTH DAKOTA,38,2021,May,Drought,Z,37
+NORTH DAKOTA,38,2021,May,Drought,Z,23
+NORTH DAKOTA,38,2021,May,Drought,Z,9
+SOUTH DAKOTA,46,2021,May,Drought,Z,15
+SOUTH DAKOTA,46,2021,May,Drought,Z,3
+SOUTH DAKOTA,46,2021,May,Drought,Z,9
+SOUTH DAKOTA,46,2021,May,Drought,Z,16
+TEXAS,48,2021,May,Drought,Z,22
+TEXAS,48,2021,May,Drought,Z,27
+TEXAS,48,2021,May,Drought,Z,353
+TEXAS,48,2021,May,Drought,Z,253
+TEXAS,48,2021,May,Drought,Z,251
+GUAM,98,2021,June,Drought,Z,2
+NORTH DAKOTA,38,2021,May,Drought,Z,11
+NORTH DAKOTA,38,2021,May,Drought,Z,44
+NORTH DAKOTA,38,2021,May,Drought,Z,17
+TEXAS,48,2021,May,Drought,Z,28
+TEXAS,48,2021,May,Drought,Z,33
+TEXAS,48,2021,May,Drought,Z,34
+TEXAS,48,2021,May,Drought,Z,254
+TEXAS,48,2021,May,Drought,Z,255
+TEXAS,48,2021,May,Drought,Z,351
+MAINE,23,2021,June,Drought,Z,12
+MAINE,23,2021,June,Drought,Z,13
+NEW HAMPSHIRE,33,2021,June,Drought,Z,1
+MAINE,23,2021,June,Drought,Z,8
+MAINE,23,2021,June,Drought,Z,14
+NEBRASKA,31,2021,March,Drought,Z,59
+NORTH DAKOTA,38,2021,March,Drought,Z,32
+NORTH DAKOTA,38,2021,March,Drought,Z,18
+NORTH DAKOTA,38,2021,March,Drought,Z,33
+NORTH DAKOTA,38,2021,March,Drought,Z,5
+NORTH DAKOTA,38,2021,March,Drought,Z,4
+NORTH DAKOTA,38,2021,March,Drought,Z,9
+NORTH DAKOTA,38,2021,March,Drought,Z,17
+NORTH DAKOTA,38,2021,March,Drought,Z,21
+COLORADO,8,2021,March,Drought,Z,92
+COLORADO,8,2021,March,Drought,Z,91
+NORTH DAKOTA,38,2021,March,Drought,Z,10
+NORTH DAKOTA,38,2021,March,Drought,Z,11
+NORTH DAKOTA,38,2021,March,Drought,Z,3
+NORTH DAKOTA,38,2021,March,Drought,Z,12
+NORTH DAKOTA,38,2021,March,Drought,Z,22
+COLORADO,8,2021,March,Drought,Z,90
+KANSAS,20,2021,March,Drought,Z,1
+KANSAS,20,2021,March,Drought,Z,13
+KANSAS,20,2021,March,Drought,Z,27
+CALIFORNIA,6,2021,June,Drought,Z,19
+TEXAS,48,2021,March,Drought,Z,353
+TEXAS,48,2021,March,Drought,Z,253
+TEXAS,48,2021,March,Drought,Z,252
+OKLAHOMA,40,2021,March,Drought,Z,14
+OKLAHOMA,40,2021,March,Drought,Z,21
+OKLAHOMA,40,2021,March,Drought,Z,34
+OKLAHOMA,40,2021,March,Drought,Z,33
+OKLAHOMA,40,2021,March,Drought,Z,45
+KANSAS,20,2021,March,Drought,Z,41
+KANSAS,20,2021,March,Drought,Z,42
+KANSAS,20,2021,March,Drought,Z,28
+KANSAS,20,2021,March,Drought,Z,15
+TEXAS,48,2021,March,Drought,Z,255
+TEXAS,48,2021,March,Drought,Z,250
+TEXAS,48,2021,March,Drought,Z,101
+TEXAS,48,2021,March,Drought,Z,144
+TEXAS,48,2021,March,Drought,Z,142
+TEXAS,48,2021,March,Drought,Z,157
+TEXAS,48,2021,March,Drought,Z,143
+TEXAS,48,2021,March,Drought,Z,145
+TEXAS,48,2021,March,Drought,Z,418
+TEXAS,48,2021,March,Drought,Z,423
+KANSAS,20,2021,March,Drought,Z,16
+KANSAS,20,2021,March,Drought,Z,4
+KANSAS,20,2021,March,Drought,Z,3
+KANSAS,20,2021,March,Drought,Z,2
+TEXAS,48,2021,March,Drought,Z,252
+TEXAS,48,2021,March,Drought,Z,353
+TEXAS,48,2021,March,Drought,Z,253
+TEXAS,48,2021,March,Drought,Z,156
+TEXAS,48,2021,March,Drought,Z,159
+TEXAS,48,2021,March,Drought,Z,146
+TEXAS,48,2021,March,Drought,Z,141
+TEXAS,48,2021,March,Drought,Z,130
+TEXAS,48,2021,March,Drought,Z,132
+TEXAS,48,2021,March,Drought,Z,92
+TEXAS,48,2021,March,Drought,Z,91
+KANSAS,20,2021,March,Drought,Z,14
+NEBRASKA,31,2021,March,Drought,Z,79
+NEBRASKA,31,2021,March,Drought,Z,80
+NEBRASKA,31,2021,March,Drought,Z,81
+TEXAS,48,2021,March,Drought,Z,102
+TEXAS,48,2021,March,Drought,Z,103
+TEXAS,48,2021,March,Drought,Z,117
+TEXAS,48,2021,March,Drought,Z,118
+TEXAS,48,2021,March,Drought,Z,251
+TEXAS,48,2021,March,Drought,Z,351
+TEXAS,48,2021,March,Drought,Z,254
+SOUTH DAKOTA,46,2021,March,Drought,Z,3
+SOUTH DAKOTA,46,2021,March,Drought,Z,15
+SOUTH DAKOTA,46,2021,March,Drought,Z,4
+NEBRASKA,31,2021,March,Drought,Z,60
+NEBRASKA,31,2021,March,Drought,Z,72
+NEBRASKA,31,2021,March,Drought,Z,82
+NEBRASKA,31,2021,March,Drought,Z,61
+TEXAS,48,2021,March,Drought,Z,248
+TEXAS,48,2021,March,Drought,Z,249
+TEXAS,48,2021,March,Drought,Z,253
+TEXAS,48,2021,March,Drought,Z,248
+SOUTH DAKOTA,46,2021,March,Drought,Z,9
+SOUTH DAKOTA,46,2021,March,Drought,Z,16
+SOUTH DAKOTA,46,2021,March,Drought,Z,34
+SOUTH DAKOTA,46,2021,March,Drought,Z,33
+NEBRASKA,31,2021,March,Drought,Z,73
+NEBRASKA,31,2021,March,Drought,Z,83
+KANSAS,20,2021,March,Drought,Z,5
+TEXAS,48,2021,March,Drought,Z,249
+TEXAS,48,2021,March,Drought,Z,252
+TEXAS,48,2021,March,Drought,Z,351
+TEXAS,48,2021,March,Drought,Z,255
+SOUTH DAKOTA,46,2021,March,Drought,Z,5
+SOUTH DAKOTA,46,2021,March,Drought,Z,10
+SOUTH DAKOTA,46,2021,March,Drought,Z,17
+SOUTH DAKOTA,46,2021,March,Drought,Z,36
+CALIFORNIA,6,2021,June,Drought,Z,17
+TEXAS,48,2021,July,Drought,Z,16
+TEXAS,48,2021,March,Drought,Z,248
+TEXAS,48,2021,March,Drought,Z,252
+TEXAS,48,2021,March,Drought,Z,253
+TEXAS,48,2021,March,Drought,Z,256
+OKLAHOMA,40,2021,March,Drought,Z,3
+TEXAS,48,2021,March,Drought,Z,16
+TEXAS,48,2021,March,Drought,Z,239
+TEXAS,48,2021,March,Drought,Z,229
+TEXAS,48,2021,March,Drought,Z,240
+TEXAS,48,2021,March,Drought,Z,230
+TEXAS,48,2021,March,Drought,Z,231
+NEBRASKA,31,2021,March,Drought,Z,4
+TEXAS,48,2021,March,Drought,Z,248
+TEXAS,48,2021,March,Drought,Z,250
+TEXAS,48,2021,March,Drought,Z,251
+TEXAS,48,2021,March,Drought,Z,17
+TEXAS,48,2021,March,Drought,Z,18
+TEXAS,48,2021,March,Drought,Z,241
+TEXAS,48,2021,March,Drought,Z,233
+TEXAS,48,2021,March,Drought,Z,232
+TEXAS,48,2021,March,Drought,Z,234
+TEXAS,48,2021,March,Drought,Z,244
+TEXAS,48,2021,March,Drought,Z,243
+TEXAS,48,2021,March,Drought,Z,242
+CALIFORNIA,6,2021,June,Drought,Z,16
+TEXAS,48,2021,March,Drought,Z,351
+TEXAS,48,2021,March,Drought,Z,254
+TEXAS,48,2021,March,Drought,Z,255
+TEXAS,48,2021,March,Drought,Z,15
+TEXAS,48,2021,March,Drought,Z,342
+TEXAS,48,2021,March,Drought,Z,343
+TEXAS,48,2021,March,Drought,Z,246
+MAINE,23,2021,June,Drought,Z,7
+ARIZONA,4,2021,May,Drought,Z,505
+ARIZONA,4,2021,May,Drought,Z,512
+ARIZONA,4,2021,May,Drought,Z,510
+CALIFORNIA,6,2021,June,Drought,Z,68
+CALIFORNIA,6,2021,June,Drought,Z,15
+TEXAS,48,2021,May,Drought,Z,157
+TEXAS,48,2021,May,Drought,Z,159
+MONTANA,30,2021,June,Drought,Z,18
+MONTANA,30,2021,June,Drought,Z,24
+ARIZONA,4,2021,May,Drought,Z,509
+NEBRASKA,31,2021,July,Drought,Z,7
+NEBRASKA,31,2021,July,Drought,Z,10
+NEBRASKA,31,2021,July,Drought,Z,7
+NEBRASKA,31,2021,July,Drought,Z,10
+CALIFORNIA,6,2021,July,Drought,Z,191
+CALIFORNIA,6,2021,July,Drought,Z,192
+CALIFORNIA,6,2021,July,Drought,Z,193
+CALIFORNIA,6,2021,July,Drought,Z,194
+CALIFORNIA,6,2021,July,Drought,Z,195
+CALIFORNIA,6,2021,July,Drought,Z,196
+MONTANA,30,2021,June,Drought,Z,62
+ARIZONA,4,2021,May,Drought,Z,506
+MONTANA,30,2021,June,Drought,Z,25
+MONTANA,30,2021,June,Drought,Z,27
+MINNESOTA,27,2021,July,Drought,Z,10
+CALIFORNIA,6,2021,July,Drought,Z,197
+CALIFORNIA,6,2021,July,Drought,Z,198
+CALIFORNIA,6,2021,July,Drought,Z,199
+ARIZONA,4,2021,May,Drought,Z,502
+MONTANA,30,2021,June,Drought,Z,59
+MONTANA,30,2021,June,Drought,Z,22
+MONTANA,30,2021,June,Drought,Z,16
+MINNESOTA,27,2021,July,Drought,Z,18
+MINNESOTA,27,2021,July,Drought,Z,25
+MINNESOTA,27,2021,July,Drought,Z,33
+MINNESOTA,27,2021,July,Drought,Z,11
+CALIFORNIA,6,2021,June,Drought,Z,63
+CALIFORNIA,6,2021,June,Drought,Z,69
+ARIZONA,4,2021,May,Drought,Z,514
+MONTANA,30,2021,June,Drought,Z,60
+MONTANA,30,2021,June,Drought,Z,21
+MINNESOTA,27,2021,July,Drought,Z,19
+MONTANA,30,2021,June,Drought,Z,19
+ILLINOIS,17,2021,July,Drought,Z,4
+ILLINOIS,17,2021,July,Drought,Z,3
+ARIZONA,4,2021,May,Drought,Z,507
+ARIZONA,4,2021,May,Drought,Z,511
+MINNESOTA,27,2021,July,Drought,Z,34
+ILLINOIS,17,2021,July,Drought,Z,5
+ILLINOIS,17,2021,July,Drought,Z,6
+CALIFORNIA,6,2021,June,Drought,Z,66
+ARIZONA,4,2021,May,Drought,Z,515
+CALIFORNIA,6,2021,June,Drought,Z,13
+ARIZONA,4,2021,May,Drought,Z,503
+CALIFORNIA,6,2021,June,Drought,Z,14
+HAWAII,15,2021,July,Drought,Z,16
+HAWAII,15,2021,July,Drought,Z,26
+NEW MEXICO,35,2021,July,Drought,Z,401
+HAWAII,15,2021,July,Drought,Z,39
+HAWAII,15,2021,July,Drought,Z,40
+HAWAII,15,2021,July,Drought,Z,41
+HAWAII,15,2021,July,Drought,Z,43
+HAWAII,15,2021,July,Drought,Z,44
+HAWAII,15,2021,July,Drought,Z,45
+HAWAII,15,2021,July,Drought,Z,46
+HAWAII,15,2021,July,Drought,Z,50
+HAWAII,15,2021,July,Drought,Z,54
+HAWAII,15,2021,July,Drought,Z,6
+ARIZONA,4,2021,May,Drought,Z,504
+ARIZONA,4,2021,May,Drought,Z,508
+MONTANA,30,2021,June,Drought,Z,26
+ARIZONA,4,2021,May,Drought,Z,513
+NEW MEXICO,35,2021,July,Drought,Z,402
+NEW MEXICO,35,2021,July,Drought,Z,403
+NEW MEXICO,35,2021,July,Drought,Z,404
+NEW MEXICO,35,2021,July,Drought,Z,405
+NEW MEXICO,35,2021,July,Drought,Z,406
+NEW MEXICO,35,2021,July,Drought,Z,407
+HAWAII,15,2021,July,Drought,Z,32
+HAWAII,15,2021,July,Drought,Z,33
+HAWAII,15,2021,July,Drought,Z,34
+HAWAII,15,2021,July,Drought,Z,17
+HAWAII,15,2021,July,Drought,Z,18
+HAWAII,15,2021,July,Drought,Z,22
+HAWAII,15,2021,July,Drought,Z,47
+HAWAII,15,2021,July,Drought,Z,48
+HAWAII,15,2021,July,Drought,Z,49
+CALIFORNIA,6,2021,June,Drought,Z,67
+MONTANA,30,2021,June,Drought,Z,23
+MONTANA,30,2021,June,Drought,Z,61
+MONTANA,30,2021,June,Drought,Z,17
+NEW MEXICO,35,2021,July,Drought,Z,408
+NEW MEXICO,35,2021,July,Drought,Z,409
+NEW MEXICO,35,2021,July,Drought,Z,410
+NEW MEXICO,35,2021,July,Drought,Z,411
+NEW MEXICO,35,2021,July,Drought,Z,412
+NEW MEXICO,35,2021,July,Drought,Z,413
+CALIFORNIA,6,2021,July,Drought,Z,179
+CALIFORNIA,6,2021,July,Drought,Z,180
+CALIFORNIA,6,2021,July,Drought,Z,181
+CALIFORNIA,6,2021,July,Drought,Z,182
+CALIFORNIA,6,2021,July,Drought,Z,183
+CALIFORNIA,6,2021,July,Drought,Z,184
+CALIFORNIA,6,2021,June,Drought,Z,18
+IOWA,19,2021,July,Drought,Z,30
+WISCONSIN,55,2021,July,Drought,Z,61
+NEW MEXICO,35,2021,July,Drought,Z,414
+NEW MEXICO,35,2021,July,Drought,Z,415
+NEW MEXICO,35,2021,July,Drought,Z,416
+NEW MEXICO,35,2021,July,Drought,Z,417
+CALIFORNIA,6,2021,July,Drought,Z,185
+CALIFORNIA,6,2021,July,Drought,Z,186
+CALIFORNIA,6,2021,July,Drought,Z,187
+CALIFORNIA,6,2021,July,Drought,Z,188
+CALIFORNIA,6,2021,July,Drought,Z,189
+CALIFORNIA,6,2021,July,Drought,Z,190
+NEBRASKA,31,2021,July,Drought,Z,7
+NEBRASKA,31,2021,July,Drought,Z,10
+NEBRASKA,31,2021,July,Drought,Z,7
+NEBRASKA,31,2021,July,Drought,Z,10
+SOUTH DAKOTA,46,2021,July,Drought,Z,21
+SOUTH DAKOTA,46,2021,July,Drought,Z,23
+NEBRASKA,31,2021,August,Drought,Z,69
+NEBRASKA,31,2021,August,Drought,Z,70
+NEBRASKA,31,2021,August,Drought,Z,7
+MONTANA,30,2021,July,Drought,Z,17
+MONTANA,30,2021,July,Drought,Z,22
+MONTANA,30,2021,July,Drought,Z,16
+IOWA,19,2021,July,Drought,Z,29
+IOWA,19,2021,July,Drought,Z,18
+IOWA,19,2021,July,Drought,Z,9
+IOWA,19,2021,July,Drought,Z,8
+IOWA,19,2021,July,Drought,Z,10
+NORTH DAKOTA,38,2021,July,Drought,Z,44
+NORTH DAKOTA,38,2021,July,Drought,Z,32
+NORTH DAKOTA,38,2021,July,Drought,Z,4
+NORTH DAKOTA,38,2021,July,Drought,Z,43
+MONTANA,30,2021,July,Drought,Z,21
+NORTH DAKOTA,38,2021,July,Drought,Z,2
+NORTH DAKOTA,38,2021,July,Drought,Z,35
+NORTH DAKOTA,38,2021,July,Drought,Z,51
+NORTH DAKOTA,38,2021,July,Drought,Z,1
+CALIFORNIA,6,2021,July,Drought,Z,14
+CALIFORNIA,6,2021,July,Drought,Z,67
+NORTH DAKOTA,38,2021,July,Drought,Z,18
+NORTH DAKOTA,38,2021,July,Drought,Z,46
+NORTH DAKOTA,38,2021,July,Drought,Z,25
+NORTH DAKOTA,38,2021,July,Drought,Z,31
+MINNESOTA,27,2021,August,Drought,Z,38
+WISCONSIN,55,2021,August,Drought,Z,6
+CALIFORNIA,6,2021,July,Drought,Z,68
+SOUTH DAKOTA,46,2021,July,Drought,Z,3
+SOUTH DAKOTA,46,2021,July,Drought,Z,15
+NORTH DAKOTA,38,2021,July,Drought,Z,42
+NORTH DAKOTA,38,2021,July,Drought,Z,41
+NORTH DAKOTA,38,2021,July,Drought,Z,36
+NORTH DAKOTA,38,2021,July,Drought,Z,48
+MINNESOTA,27,2021,July,Drought,Z,46
+MINNESOTA,27,2021,July,Drought,Z,39
+NEW HAMPSHIRE,33,2021,July,Drought,Z,1
+CALIFORNIA,6,2021,July,Drought,Z,69
+NEBRASKA,31,2021,July,Drought,Z,87
+SOUTH DAKOTA,46,2021,July,Drought,Z,33
+SOUTH DAKOTA,46,2021,July,Drought,Z,45
+NORTH DAKOTA,38,2021,July,Drought,Z,47
+NORTH DAKOTA,38,2021,July,Drought,Z,12
+NORTH DAKOTA,38,2021,July,Drought,Z,50
+NORTH DAKOTA,38,2021,July,Drought,Z,17
+MAINE,23,2021,July,Drought,Z,8
+MAINE,23,2021,July,Drought,Z,13
+CALIFORNIA,6,2021,July,Drought,Z,15
+SOUTH DAKOTA,46,2021,July,Drought,Z,4
+SOUTH DAKOTA,46,2021,July,Drought,Z,9
+NORTH DAKOTA,38,2021,July,Drought,Z,21
+NORTH DAKOTA,38,2021,July,Drought,Z,19
+NORTH DAKOTA,38,2021,July,Drought,Z,34
+NORTH DAKOTA,38,2021,July,Drought,Z,10
+MAINE,23,2021,July,Drought,Z,14
+MAINE,23,2021,July,Drought,Z,9
+CALIFORNIA,6,2021,July,Drought,Z,16
+SOUTH DAKOTA,46,2021,July,Drought,Z,16
+SOUTH DAKOTA,46,2021,July,Drought,Z,34
+NORTH DAKOTA,38,2021,July,Drought,Z,20
+NORTH DAKOTA,38,2021,July,Drought,Z,13
+NORTH DAKOTA,38,2021,July,Drought,Z,3
+NORTH DAKOTA,38,2021,July,Drought,Z,22
+MAINE,23,2021,July,Drought,Z,7
+CALIFORNIA,6,2021,July,Drought,Z,18
+SOUTH DAKOTA,46,2021,July,Drought,Z,35
+SOUTH DAKOTA,46,2021,July,Drought,Z,48
+NORTH DAKOTA,38,2021,July,Drought,Z,45
+NORTH DAKOTA,38,2021,July,Drought,Z,33
+NORTH DAKOTA,38,2021,July,Drought,Z,37
+NORTH DAKOTA,38,2021,July,Drought,Z,11
+CALIFORNIA,6,2021,July,Drought,Z,17
+SOUTH DAKOTA,46,2021,July,Drought,Z,51
+SOUTH DAKOTA,46,2021,July,Drought,Z,36
+NORTH DAKOTA,38,2021,July,Drought,Z,23
+NORTH DAKOTA,38,2021,July,Drought,Z,9
+NORTH DAKOTA,38,2021,July,Drought,Z,5
+NORTH DAKOTA,38,2021,July,Drought,Z,40
+CALIFORNIA,6,2021,July,Drought,Z,19
+SOUTH DAKOTA,46,2021,July,Drought,Z,37
+SOUTH DAKOTA,46,2021,July,Drought,Z,17
+MINNESOTA,27,2021,July,Drought,Z,94
+HAWAII,15,2021,August,Drought,Z,27
+HAWAII,15,2021,August,Drought,Z,51
+HAWAII,15,2021,August,Drought,Z,52
+MONTANA,30,2021,July,Drought,Z,25
+MONTANA,30,2021,July,Drought,Z,27
+MONTANA,30,2021,July,Drought,Z,26
+MONTANA,30,2021,July,Drought,Z,20
+SOUTH DAKOTA,46,2021,July,Drought,Z,10
+SOUTH DAKOTA,46,2021,July,Drought,Z,5
+TEXAS,48,2021,July,Drought,Z,418
+TEXAS,48,2021,July,Drought,Z,419
+TEXAS,48,2021,July,Drought,Z,424
+CALIFORNIA,6,2021,July,Drought,Z,13
+CALIFORNIA,6,2021,July,Drought,Z,63
+SOUTH DAKOTA,46,2021,July,Drought,Z,6
+SOUTH DAKOTA,46,2021,July,Drought,Z,18
+CALIFORNIA,6,2021,July,Drought,Z,66
+NEBRASKA,31,2021,August,Drought,Z,10
+SOUTH DAKOTA,46,2021,July,Drought,Z,7
+SOUTH DAKOTA,46,2021,July,Drought,Z,11
+SOUTH DAKOTA,46,2021,July,Drought,Z,19
+SOUTH DAKOTA,46,2021,July,Drought,Z,22
+WISCONSIN,55,2021,July,Drought,Z,6
+MAINE,23,2021,July,Drought,Z,10
+MAINE,23,2021,July,Drought,Z,31
+SOUTH DAKOTA,46,2021,July,Drought,Z,20
+SOUTH DAKOTA,46,2021,July,Drought,Z,8
+MONTANA,30,2021,July,Drought,Z,23
+MONTANA,30,2021,July,Drought,Z,61
+MAINE,23,2021,July,Drought,Z,15
+IOWA,19,2021,July,Drought,Z,19
+ARIZONA,4,2021,July,Drought,Z,504
+ARIZONA,4,2021,July,Drought,Z,511
+SOUTH DAKOTA,46,2021,June,Drought,Z,66
+SOUTH DAKOTA,46,2021,June,Drought,Z,71
+SOUTH DAKOTA,46,2021,June,Drought,Z,69
+SOUTH DAKOTA,46,2021,August,Drought,Z,8
+SOUTH DAKOTA,46,2021,August,Drought,Z,20
+MAINE,23,2021,August,Drought,Z,14
+IOWA,19,2021,August,Drought,Z,3
+IOWA,19,2021,August,Drought,Z,32
+IOWA,19,2021,August,Drought,Z,13
+IOWA,19,2021,August,Drought,Z,20
+MINNESOTA,27,2021,August,Drought,Z,81
+ARIZONA,4,2021,June,Drought,Z,506
+ARIZONA,4,2021,June,Drought,Z,507
+NEW MEXICO,35,2021,July,Drought,Z,223
+NEW MEXICO,35,2021,July,Drought,Z,207
+NEW MEXICO,35,2021,July,Drought,Z,204
+NEW MEXICO,35,2021,July,Drought,Z,203
+ARIZONA,4,2021,July,Drought,Z,513
+SOUTH DAKOTA,46,2021,June,Drought,Z,38
+SOUTH DAKOTA,46,2021,June,Drought,Z,40
+MINNESOTA,27,2021,June,Drought,Z,89
+NEW HAMPSHIRE,33,2021,August,Drought,Z,1
+MINNESOTA,27,2021,August,Drought,Z,90
+MINNESOTA,27,2021,August,Drought,Z,71
+MINNESOTA,27,2021,August,Drought,Z,72
+MINNESOTA,27,2021,August,Drought,Z,80
+MINNESOTA,27,2021,August,Drought,Z,89
+NEW MEXICO,35,2021,July,Drought,Z,216
+NEW MEXICO,35,2021,July,Drought,Z,202
+NEW MEXICO,35,2021,July,Drought,Z,208
+MINNESOTA,27,2021,June,Drought,Z,90
+MINNESOTA,27,2021,June,Drought,Z,97
+MINNESOTA,27,2021,June,Drought,Z,98
+MINNESOTA,27,2021,June,Drought,Z,80
+ARIZONA,4,2021,August,Drought,Z,502
+MINNESOTA,27,2021,August,Drought,Z,97
+MINNESOTA,27,2021,August,Drought,Z,98
+ARIZONA,4,2021,June,Drought,Z,511
+ARIZONA,4,2021,June,Drought,Z,512
+NEW MEXICO,35,2021,July,Drought,Z,215
+ARIZONA,4,2021,July,Drought,Z,508
+IOWA,19,2021,July,Drought,Z,15
+IOWA,19,2021,July,Drought,Z,23
+IOWA,19,2021,July,Drought,Z,34
+IOWA,19,2021,June,Drought,Z,3
+ARIZONA,4,2021,August,Drought,Z,509
+ARIZONA,4,2021,August,Drought,Z,511
+NEBRASKA,31,2021,August,Drought,Z,13
+SOUTH DAKOTA,46,2021,August,Drought,Z,58
+NEW MEXICO,35,2021,July,Drought,Z,237
+NEW MEXICO,35,2021,July,Drought,Z,235
+ARIZONA,4,2021,July,Drought,Z,503
+ARIZONA,4,2021,July,Drought,Z,505
+ARIZONA,4,2021,July,Drought,Z,512
+SOUTH DAKOTA,46,2021,July,Drought,Z,71
+IOWA,19,2021,July,Drought,Z,5
+IOWA,19,2021,July,Drought,Z,24
+SOUTH DAKOTA,46,2021,August,Drought,Z,3
+SOUTH DAKOTA,46,2021,August,Drought,Z,15
+ARIZONA,4,2021,August,Drought,Z,510
+ARIZONA,4,2021,August,Drought,Z,508
+SOUTH DAKOTA,46,2021,August,Drought,Z,38
+SOUTH DAKOTA,46,2021,August,Drought,Z,68
+SOUTH DAKOTA,46,2021,August,Drought,Z,40
+SOUTH DAKOTA,46,2021,August,Drought,Z,57
+SOUTH DAKOTA,46,2021,August,Drought,Z,63
+ARIZONA,4,2021,June,Drought,Z,508
+NEW MEXICO,35,2021,July,Drought,Z,212
+NEW MEXICO,35,2021,July,Drought,Z,220
+NEW MEXICO,35,2021,July,Drought,Z,241
+SOUTH DAKOTA,46,2021,August,Drought,Z,33
+SOUTH DAKOTA,46,2021,August,Drought,Z,45
+ARIZONA,4,2021,August,Drought,Z,512
+SOUTH DAKOTA,46,2021,August,Drought,Z,70
+SOUTH DAKOTA,46,2021,August,Drought,Z,59
+SOUTH DAKOTA,46,2021,August,Drought,Z,64
+SOUTH DAKOTA,46,2021,August,Drought,Z,50
+SOUTH DAKOTA,46,2021,August,Drought,Z,60
+NEW MEXICO,35,2021,July,Drought,Z,209
+NEW MEXICO,35,2021,July,Drought,Z,219
+ARIZONA,4,2021,July,Drought,Z,514
+SOUTH DAKOTA,46,2021,June,Drought,Z,58
+SOUTH DAKOTA,46,2021,June,Drought,Z,68
+SOUTH DAKOTA,46,2021,June,Drought,Z,63
+SOUTH DAKOTA,46,2021,June,Drought,Z,70
+SOUTH DAKOTA,46,2021,June,Drought,Z,59
+SOUTH DAKOTA,46,2021,July,Drought,Z,54
+SOUTH DAKOTA,46,2021,August,Drought,Z,4
+SOUTH DAKOTA,46,2021,August,Drought,Z,9
+SOUTH DAKOTA,46,2021,August,Drought,Z,65
+SOUTH DAKOTA,46,2021,August,Drought,Z,52
+SOUTH DAKOTA,46,2021,August,Drought,Z,39
+SOUTH DAKOTA,46,2021,August,Drought,Z,55
+SOUTH DAKOTA,46,2021,August,Drought,Z,67
+ARIZONA,4,2021,June,Drought,Z,513
+NEW MEXICO,35,2021,July,Drought,Z,211
+NEW MEXICO,35,2021,July,Drought,Z,214
+NEW MEXICO,35,2021,July,Drought,Z,239
+IOWA,19,2021,July,Drought,Z,35
+IOWA,19,2021,July,Drought,Z,47
+IOWA,19,2021,July,Drought,Z,6
+SOUTH DAKOTA,46,2021,July,Drought,Z,56
+SOUTH DAKOTA,46,2021,July,Drought,Z,53
+SOUTH DAKOTA,46,2021,July,Drought,Z,66
+SOUTH DAKOTA,46,2021,June,Drought,Z,39
+SOUTH DAKOTA,46,2021,June,Drought,Z,52
+SOUTH DAKOTA,46,2021,June,Drought,Z,55
+SOUTH DAKOTA,46,2021,June,Drought,Z,54
+SOUTH DAKOTA,46,2021,June,Drought,Z,62
+SOUTH DAKOTA,46,2021,August,Drought,Z,16
+SOUTH DAKOTA,46,2021,August,Drought,Z,34
+SOUTH DAKOTA,46,2021,August,Drought,Z,61
+SOUTH DAKOTA,46,2021,August,Drought,Z,54
+SOUTH DAKOTA,46,2021,August,Drought,Z,62
+SOUTH DAKOTA,46,2021,August,Drought,Z,56
+SOUTH DAKOTA,46,2021,August,Drought,Z,53
+ARIZONA,4,2021,June,Drought,Z,502
+ARIZONA,4,2021,June,Drought,Z,503
+ARIZONA,4,2021,June,Drought,Z,514
+NEW MEXICO,35,2021,July,Drought,Z,236
+ARIZONA,4,2021,July,Drought,Z,509
+IOWA,19,2021,July,Drought,Z,16
+IOWA,19,2021,July,Drought,Z,25
+IOWA,19,2021,July,Drought,Z,36
+IOWA,19,2021,July,Drought,Z,48
+SOUTH DAKOTA,46,2021,June,Drought,Z,56
+SOUTH DAKOTA,46,2021,June,Drought,Z,53
+SOUTH DAKOTA,46,2021,June,Drought,Z,57
+SOUTH DAKOTA,46,2021,June,Drought,Z,50
+NEBRASKA,31,2021,June,Drought,Z,13
+IOWA,19,2021,July,Drought,Z,21
+SOUTH DAKOTA,46,2021,July,Drought,Z,69
+IOWA,19,2021,July,Drought,Z,1
+IOWA,19,2021,July,Drought,Z,3
+IOWA,19,2021,July,Drought,Z,2
+SOUTH DAKOTA,46,2021,August,Drought,Z,35
+SOUTH DAKOTA,46,2021,August,Drought,Z,48
+SOUTH DAKOTA,46,2021,August,Drought,Z,66
+SOUTH DAKOTA,46,2021,August,Drought,Z,69
+NEW MEXICO,35,2021,July,Drought,Z,238
+ARIZONA,4,2021,July,Drought,Z,506
+IOWA,19,2021,June,Drought,Z,21
+IOWA,19,2021,June,Drought,Z,14
+IOWA,19,2021,July,Drought,Z,14
+IOWA,19,2021,July,Drought,Z,13
+IOWA,19,2021,July,Drought,Z,20
+IOWA,19,2021,July,Drought,Z,12
+IOWA,19,2021,July,Drought,Z,32
+IOWA,19,2021,July,Drought,Z,31
+MINNESOTA,27,2021,July,Drought,Z,81
+MINNESOTA,27,2021,July,Drought,Z,90
+MINNESOTA,27,2021,July,Drought,Z,72
+SOUTH DAKOTA,46,2021,August,Drought,Z,5
+SOUTH DAKOTA,46,2021,August,Drought,Z,10
+ARIZONA,4,2021,July,Drought,Z,515
+MINNESOTA,27,2021,July,Drought,Z,97
+MINNESOTA,27,2021,July,Drought,Z,98
+MINNESOTA,27,2021,July,Drought,Z,71
+MINNESOTA,27,2021,July,Drought,Z,80
+NEBRASKA,31,2021,July,Drought,Z,13
+SOUTH DAKOTA,46,2021,July,Drought,Z,58
+SOUTH DAKOTA,46,2021,July,Drought,Z,38
+SOUTH DAKOTA,46,2021,July,Drought,Z,68
+SOUTH DAKOTA,46,2021,July,Drought,Z,57
+SOUTH DAKOTA,46,2021,July,Drought,Z,63
+SOUTH DAKOTA,46,2021,July,Drought,Z,70
+SOUTH DAKOTA,46,2021,July,Drought,Z,59
+SOUTH DAKOTA,46,2021,August,Drought,Z,17
+SOUTH DAKOTA,46,2021,August,Drought,Z,36
+NEW MEXICO,35,2021,July,Drought,Z,217
+NEW MEXICO,35,2021,July,Drought,Z,231
+NEW MEXICO,35,2021,July,Drought,Z,240
+NEW MEXICO,35,2021,July,Drought,Z,224
+IOWA,19,2021,July,Drought,Z,7
+IOWA,19,2021,July,Drought,Z,17
+SOUTH DAKOTA,46,2021,July,Drought,Z,40
+SOUTH DAKOTA,46,2021,July,Drought,Z,64
+SOUTH DAKOTA,46,2021,July,Drought,Z,50
+SOUTH DAKOTA,46,2021,July,Drought,Z,60
+SOUTH DAKOTA,46,2021,July,Drought,Z,65
+SOUTH DAKOTA,46,2021,July,Drought,Z,52
+SOUTH DAKOTA,46,2021,July,Drought,Z,39
+SOUTH DAKOTA,46,2021,July,Drought,Z,55
+SOUTH DAKOTA,46,2021,August,Drought,Z,37
+SOUTH DAKOTA,46,2021,August,Drought,Z,51
+MAINE,23,2021,August,Drought,Z,9
+ARIZONA,4,2021,June,Drought,Z,504
+ARIZONA,4,2021,June,Drought,Z,515
+NEW MEXICO,35,2021,July,Drought,Z,229
+NEW MEXICO,35,2021,July,Drought,Z,226
+ARIZONA,4,2021,July,Drought,Z,510
+SOUTH DAKOTA,46,2021,June,Drought,Z,64
+SOUTH DAKOTA,46,2021,June,Drought,Z,60
+SOUTH DAKOTA,46,2021,June,Drought,Z,65
+SOUTH DAKOTA,46,2021,June,Drought,Z,67
+SOUTH DAKOTA,46,2021,June,Drought,Z,61
+IOWA,19,2021,July,Drought,Z,26
+IOWA,19,2021,July,Drought,Z,37
+IOWA,19,2021,July,Drought,Z,4
+SOUTH DAKOTA,46,2021,July,Drought,Z,67
+SOUTH DAKOTA,46,2021,July,Drought,Z,61
+SOUTH DAKOTA,46,2021,July,Drought,Z,62
+SOUTH DAKOTA,46,2021,August,Drought,Z,6
+SOUTH DAKOTA,46,2021,August,Drought,Z,18
+MAINE,23,2021,August,Drought,Z,8
+ARIZONA,4,2021,June,Drought,Z,505
+NEW MEXICO,35,2021,July,Drought,Z,218
+NEW MEXICO,35,2021,July,Drought,Z,221
+NEW MEXICO,35,2021,July,Drought,Z,201
+NEW MEXICO,35,2021,July,Drought,Z,205
+ARIZONA,4,2021,July,Drought,Z,507
+IOWA,19,2021,June,Drought,Z,1
+IOWA,19,2021,June,Drought,Z,13
+IOWA,19,2021,June,Drought,Z,2
+IOWA,19,2021,June,Drought,Z,20
+IOWA,19,2021,June,Drought,Z,12
+SOUTH DAKOTA,46,2021,August,Drought,Z,7
+SOUTH DAKOTA,46,2021,August,Drought,Z,11
+MAINE,23,2021,August,Drought,Z,7
+ARIZONA,4,2021,June,Drought,Z,509
+NEW MEXICO,35,2021,July,Drought,Z,228
+NEW MEXICO,35,2021,July,Drought,Z,210
+IOWA,19,2021,June,Drought,Z,22
+NEW MEXICO,35,2021,July,Drought,Z,222
+MINNESOTA,27,2021,June,Drought,Z,81
+SOUTH DAKOTA,46,2021,August,Drought,Z,19
+SOUTH DAKOTA,46,2021,August,Drought,Z,22
+MAINE,23,2021,August,Drought,Z,13
+IOWA,19,2021,August,Drought,Z,22
+IOWA,19,2021,August,Drought,Z,2
+IOWA,19,2021,August,Drought,Z,31
+NEBRASKA,31,2021,August,Drought,Z,14
+ARIZONA,4,2021,June,Drought,Z,510
+NEW MEXICO,35,2021,July,Drought,Z,232
+NEBRASKA,31,2021,July,Drought,Z,14
+ARIZONA,4,2021,July,Drought,Z,502
+SOUTH DAKOTA,46,2021,August,Drought,Z,23
+SOUTH DAKOTA,46,2021,August,Drought,Z,21
+MAINE,23,2021,August,Drought,Z,12
+SOUTH DAKOTA,46,2021,August,Drought,Z,71
+IOWA,19,2021,August,Drought,Z,21
+IOWA,19,2021,August,Drought,Z,14
+NEW MEXICO,35,2021,July,Drought,Z,234
+NEW MEXICO,35,2021,July,Drought,Z,233
+MINNESOTA,27,2021,July,Drought,Z,89
+IOWA,19,2021,July,Drought,Z,22
+NEW MEXICO,35,2021,July,Drought,Z,225
+NEW MEXICO,35,2021,July,Drought,Z,206
+IOWA,19,2021,August,Drought,Z,34
+IOWA,19,2021,August,Drought,Z,33
+IOWA,19,2021,August,Drought,Z,46
+IOWA,19,2021,August,Drought,Z,47
+IOWA,19,2021,August,Drought,Z,62
+NEW MEXICO,35,2021,August,Drought,Z,210
+NEW MEXICO,35,2021,August,Drought,Z,216
+MINNESOTA,27,2021,August,Drought,Z,94
+WISCONSIN,55,2021,August,Drought,Z,61
+IOWA,19,2021,August,Drought,Z,19
+IOWA,19,2021,August,Drought,Z,30
+IOWA,19,2021,August,Drought,Z,29
+NEW MEXICO,35,2021,August,Drought,Z,401
+NEBRASKA,31,2021,August,Drought,Z,79
+NEBRASKA,31,2021,August,Drought,Z,80
+NEW MEXICO,35,2021,August,Drought,Z,215
+NEW MEXICO,35,2021,August,Drought,Z,211
+MINNESOTA,27,2021,August,Drought,Z,18
+IOWA,19,2021,August,Drought,Z,5
+IOWA,19,2021,August,Drought,Z,15
+IOWA,19,2021,August,Drought,Z,17
+IOWA,19,2021,August,Drought,Z,18
+IOWA,19,2021,August,Drought,Z,8
+IOWA,19,2021,August,Drought,Z,9
+IOWA,19,2021,August,Drought,Z,10
+NEW MEXICO,35,2021,August,Drought,Z,402
+NEW MEXICO,35,2021,August,Drought,Z,403
+NEW MEXICO,35,2021,August,Drought,Z,404
+NEW MEXICO,35,2021,August,Drought,Z,405
+NEW MEXICO,35,2021,August,Drought,Z,406
+NEW MEXICO,35,2021,August,Drought,Z,407
+NEW MEXICO,35,2021,August,Drought,Z,214
+NEW MEXICO,35,2021,August,Drought,Z,217
+HAWAII,15,2021,August,Drought,Z,54
+HAWAII,15,2021,August,Drought,Z,48
+MINNESOTA,27,2021,August,Drought,Z,34
+MINNESOTA,27,2021,August,Drought,Z,35
+MONTANA,30,2021,August,Drought,Z,62
+MONTANA,30,2021,August,Drought,Z,24
+NORTH DAKOTA,38,2021,August,Drought,Z,44
+NORTH DAKOTA,38,2021,August,Drought,Z,32
+NORTH DAKOTA,38,2021,August,Drought,Z,4
+NORTH DAKOTA,38,2021,August,Drought,Z,43
+IOWA,19,2021,August,Drought,Z,25
+IOWA,19,2021,August,Drought,Z,26
+IOWA,19,2021,August,Drought,Z,27
+IOWA,19,2021,August,Drought,Z,28
+IOWA,19,2021,August,Drought,Z,37
+NEW MEXICO,35,2021,August,Drought,Z,408
+NEW MEXICO,35,2021,August,Drought,Z,409
+NEW MEXICO,35,2021,August,Drought,Z,410
+NEW MEXICO,35,2021,August,Drought,Z,411
+NEW MEXICO,35,2021,August,Drought,Z,412
+NEW MEXICO,35,2021,August,Drought,Z,413
+NEW MEXICO,35,2021,August,Drought,Z,229
+NEW MEXICO,35,2021,August,Drought,Z,233
+MINNESOTA,27,2021,August,Drought,Z,36
+MINNESOTA,27,2021,August,Drought,Z,19
+MONTANA,30,2021,August,Drought,Z,25
+MONTANA,30,2021,August,Drought,Z,27
+MONTANA,30,2021,August,Drought,Z,26
+MONTANA,30,2021,August,Drought,Z,20
+MINNESOTA,27,2021,August,Drought,Z,46
+MINNESOTA,27,2021,August,Drought,Z,39
+NORTH DAKOTA,38,2021,August,Drought,Z,2
+NORTH DAKOTA,38,2021,August,Drought,Z,35
+NORTH DAKOTA,38,2021,August,Drought,Z,51
+NORTH DAKOTA,38,2021,August,Drought,Z,1
+IOWA,19,2021,August,Drought,Z,38
+IOWA,19,2021,August,Drought,Z,39
+IOWA,19,2021,August,Drought,Z,49
+IOWA,19,2021,August,Drought,Z,50
+IOWA,19,2021,August,Drought,Z,4
+HAWAII,15,2021,August,Drought,Z,6
+HAWAII,15,2021,August,Drought,Z,16
+HAWAII,15,2021,August,Drought,Z,17
+HAWAII,15,2021,August,Drought,Z,18
+HAWAII,15,2021,August,Drought,Z,22
+HAWAII,15,2021,August,Drought,Z,26
+HAWAII,15,2021,August,Drought,Z,32
+HAWAII,15,2021,August,Drought,Z,33
+HAWAII,15,2021,August,Drought,Z,34
+HAWAII,15,2021,August,Drought,Z,39
+HAWAII,15,2021,August,Drought,Z,40
+HAWAII,15,2021,August,Drought,Z,41
+HAWAII,15,2021,August,Drought,Z,43
+HAWAII,15,2021,August,Drought,Z,44
+HAWAII,15,2021,August,Drought,Z,45
+HAWAII,15,2021,August,Drought,Z,46
+HAWAII,15,2021,August,Drought,Z,47
+HAWAII,15,2021,August,Drought,Z,49
+HAWAII,15,2021,August,Drought,Z,50
+HAWAII,15,2021,August,Drought,Z,42
+OKLAHOMA,40,2021,August,Drought,Z,6
+OKLAHOMA,40,2021,August,Drought,Z,10
+OKLAHOMA,40,2021,August,Drought,Z,5
+NEW MEXICO,35,2021,August,Drought,Z,414
+NEW MEXICO,35,2021,August,Drought,Z,415
+NEW MEXICO,35,2021,August,Drought,Z,416
+NEW MEXICO,35,2021,August,Drought,Z,417
+NEW MEXICO,35,2021,August,Drought,Z,237
+NEW MEXICO,35,2021,August,Drought,Z,236
+MINNESOTA,27,2021,August,Drought,Z,37
+MINNESOTA,27,2021,August,Drought,Z,20
+CALIFORNIA,6,2021,August,Drought,Z,179
+CALIFORNIA,6,2021,August,Drought,Z,180
+CALIFORNIA,6,2021,August,Drought,Z,181
+MONTANA,30,2021,August,Drought,Z,23
+MONTANA,30,2021,August,Drought,Z,61
+MONTANA,30,2021,August,Drought,Z,17
+MONTANA,30,2021,August,Drought,Z,59
+MONTANA,30,2021,August,Drought,Z,22
+MONTANA,30,2021,August,Drought,Z,19
+NORTH DAKOTA,38,2021,August,Drought,Z,18
+NORTH DAKOTA,38,2021,August,Drought,Z,46
+NORTH DAKOTA,38,2021,August,Drought,Z,25
+NORTH DAKOTA,38,2021,August,Drought,Z,31
+OKLAHOMA,40,2021,August,Drought,Z,4
+NEW MEXICO,35,2021,August,Drought,Z,238
+NEW MEXICO,35,2021,August,Drought,Z,212
+MINNESOTA,27,2021,August,Drought,Z,21
+MINNESOTA,27,2021,August,Drought,Z,33
+CALIFORNIA,6,2021,August,Drought,Z,182
+CALIFORNIA,6,2021,August,Drought,Z,183
+CALIFORNIA,6,2021,August,Drought,Z,184
+CALIFORNIA,6,2021,August,Drought,Z,185
+CALIFORNIA,6,2021,August,Drought,Z,186
+CALIFORNIA,6,2021,August,Drought,Z,187
+MONTANA,30,2021,August,Drought,Z,16
+MONTANA,30,2021,August,Drought,Z,21
+MONTANA,30,2021,August,Drought,Z,60
+NORTH DAKOTA,38,2021,August,Drought,Z,42
+NORTH DAKOTA,38,2021,August,Drought,Z,41
+NORTH DAKOTA,38,2021,August,Drought,Z,36
+NORTH DAKOTA,38,2021,August,Drought,Z,48
+NEW MEXICO,35,2021,August,Drought,Z,218
+NEW MEXICO,35,2021,August,Drought,Z,221
+MINNESOTA,27,2021,August,Drought,Z,10
+MINNESOTA,27,2021,August,Drought,Z,26
+CALIFORNIA,6,2021,August,Drought,Z,188
+CALIFORNIA,6,2021,August,Drought,Z,189
+CALIFORNIA,6,2021,August,Drought,Z,192
+CALIFORNIA,6,2021,August,Drought,Z,193
+CALIFORNIA,6,2021,August,Drought,Z,194
+CALIFORNIA,6,2021,August,Drought,Z,195
+MINNESOTA,27,2021,August,Drought,Z,25
+MINNESOTA,27,2021,August,Drought,Z,11
+NORTH DAKOTA,38,2021,August,Drought,Z,47
+NORTH DAKOTA,38,2021,August,Drought,Z,12
+NORTH DAKOTA,38,2021,August,Drought,Z,50
+NORTH DAKOTA,38,2021,August,Drought,Z,17
+COLORADO,8,2021,August,Drought,Z,23
+NEW MEXICO,35,2021,August,Drought,Z,222
+NEW MEXICO,35,2021,August,Drought,Z,223
+CALIFORNIA,6,2021,August,Drought,Z,196
+CALIFORNIA,6,2021,August,Drought,Z,197
+CALIFORNIA,6,2021,August,Drought,Z,198
+CALIFORNIA,6,2021,August,Drought,Z,199
+MINNESOTA,27,2021,August,Drought,Z,12
+NORTH DAKOTA,38,2021,August,Drought,Z,21
+NORTH DAKOTA,38,2021,August,Drought,Z,19
+NORTH DAKOTA,38,2021,August,Drought,Z,34
+NORTH DAKOTA,38,2021,August,Drought,Z,10
+COLORADO,8,2021,August,Drought,Z,19
+COLORADO,8,2021,August,Drought,Z,18
+COLORADO,8,2021,August,Drought,Z,22
+COLORADO,8,2021,August,Drought,Z,21
+NEW MEXICO,35,2021,August,Drought,Z,202
+NEW MEXICO,35,2021,August,Drought,Z,208
+NORTH DAKOTA,38,2021,August,Drought,Z,20
+NORTH DAKOTA,38,2021,August,Drought,Z,13
+NORTH DAKOTA,38,2021,August,Drought,Z,3
+NORTH DAKOTA,38,2021,August,Drought,Z,5
+COLORADO,8,2021,August,Drought,Z,17
+COLORADO,8,2021,August,Drought,Z,9
+COLORADO,8,2021,August,Drought,Z,20
+COLORADO,8,2021,August,Drought,Z,14
+NEW MEXICO,35,2021,August,Drought,Z,209
+NEW MEXICO,35,2021,August,Drought,Z,219
+COLORADO,8,2021,August,Drought,Z,11
+NORTH DAKOTA,38,2021,August,Drought,Z,22
+NORTH DAKOTA,38,2021,August,Drought,Z,45
+NORTH DAKOTA,38,2021,August,Drought,Z,40
+NORTH DAKOTA,38,2021,August,Drought,Z,33
+COLORADO,8,2021,August,Drought,Z,6
+COLORADO,8,2021,August,Drought,Z,7
+COLORADO,8,2021,August,Drought,Z,12
+COLORADO,8,2021,August,Drought,Z,10
+NEW MEXICO,35,2021,August,Drought,Z,239
+NEW MEXICO,35,2021,August,Drought,Z,240
+MONTANA,30,2021,August,Drought,Z,18
+NORTH DAKOTA,38,2021,August,Drought,Z,37
+NORTH DAKOTA,38,2021,August,Drought,Z,11
+NORTH DAKOTA,38,2021,August,Drought,Z,23
+NORTH DAKOTA,38,2021,August,Drought,Z,9
+COLORADO,8,2021,August,Drought,Z,3
+COLORADO,8,2021,August,Drought,Z,8
+COLORADO,8,2021,August,Drought,Z,4
+COLORADO,8,2021,August,Drought,Z,5
+COLORADO,8,2021,August,Drought,Z,2
+NEW MEXICO,35,2021,August,Drought,Z,224
+NEW MEXICO,35,2021,August,Drought,Z,225
+CALIFORNIA,6,2021,August,Drought,Z,190
+CALIFORNIA,6,2021,August,Drought,Z,191
+NEBRASKA,31,2021,August,Drought,Z,59
+WYOMING,56,2021,August,Drought,Z,198
+WYOMING,56,2021,August,Drought,Z,199
+MONTANA,30,2021,August,Drought,Z,67
+MONTANA,30,2021,August,Drought,Z,169
+MONTANA,30,2021,August,Drought,Z,37
+MONTANA,30,2021,August,Drought,Z,32
+MONTANA,30,2021,August,Drought,Z,33
+MONTANA,30,2021,August,Drought,Z,42
+MONTANA,30,2021,August,Drought,Z,63
+MONTANA,30,2021,August,Drought,Z,65
+MONTANA,30,2021,August,Drought,Z,172
+MONTANA,30,2021,August,Drought,Z,29
+MONTANA,30,2021,August,Drought,Z,173
+MONTANA,30,2021,August,Drought,Z,57
+MONTANA,30,2021,August,Drought,Z,170
+MONTANA,30,2021,August,Drought,Z,40
+MONTANA,30,2021,August,Drought,Z,31
+MONTANA,30,2021,August,Drought,Z,141
+COLORADO,8,2021,August,Drought,Z,1
+COLORADO,8,2021,August,Drought,Z,13
+UTAH,49,2021,August,Drought,Z,22
+UTAH,49,2021,August,Drought,Z,28
+UTAH,49,2021,August,Drought,Z,29
+NEW MEXICO,35,2021,August,Drought,Z,226
+NEW MEXICO,35,2021,August,Drought,Z,206
+MONTANA,30,2021,August,Drought,Z,64
+MONTANA,30,2021,August,Drought,Z,36
+MONTANA,30,2021,August,Drought,Z,171
+MONTANA,30,2021,August,Drought,Z,56
+MONTANA,30,2021,August,Drought,Z,139
+MONTANA,30,2021,August,Drought,Z,138
+MONTANA,30,2021,August,Drought,Z,58
+MONTANA,30,2021,August,Drought,Z,228
+MONTANA,30,2021,August,Drought,Z,235
+MONTANA,30,2021,August,Drought,Z,30
+MONTANA,30,2021,August,Drought,Z,68
+MONTANA,30,2021,August,Drought,Z,34
+MONTANA,30,2021,August,Drought,Z,66
+ILLINOIS,17,2021,August,Drought,Z,6
+ILLINOIS,17,2021,August,Drought,Z,5
+ILLINOIS,17,2021,August,Drought,Z,4
+UTAH,49,2021,August,Drought,Z,27
+UTAH,49,2021,August,Drought,Z,25
+UTAH,49,2021,August,Drought,Z,24
+UTAH,49,2021,August,Drought,Z,23
+NEW MEXICO,35,2021,August,Drought,Z,201
+NEW MEXICO,35,2021,August,Drought,Z,207
+NEW MEXICO,35,2021,August,Drought,Z,220
+ILLINOIS,17,2021,August,Drought,Z,3
+IOWA,19,2021,August,Drought,Z,36
+IOWA,19,2021,August,Drought,Z,48
+IOWA,19,2021,August,Drought,Z,24
+NEW MEXICO,35,2021,August,Drought,Z,205
+NEW MEXICO,35,2021,August,Drought,Z,204
+NEW MEXICO,35,2021,August,Drought,Z,241
+KANSAS,20,2021,August,Drought,Z,2
+IOWA,19,2021,August,Drought,Z,35
+IOWA,19,2021,August,Drought,Z,6
+IOWA,19,2021,August,Drought,Z,7
+IOWA,19,2021,August,Drought,Z,16
+IOWA,19,2021,August,Drought,Z,23
+NEW MEXICO,35,2021,August,Drought,Z,203
+NEW MEXICO,35,2021,August,Drought,Z,228
+NORTH DAKOTA,38,2021,June,Drought,Z,34
+NORTH DAKOTA,38,2021,June,Drought,Z,10
+NORTH DAKOTA,38,2021,June,Drought,Z,20
+NORTH DAKOTA,38,2021,June,Drought,Z,13
+SOUTH DAKOTA,46,2021,June,Drought,Z,15
+SOUTH DAKOTA,46,2021,June,Drought,Z,33
+NORTH DAKOTA,38,2021,June,Drought,Z,3
+NORTH DAKOTA,38,2021,June,Drought,Z,5
+NORTH DAKOTA,38,2021,June,Drought,Z,22
+NORTH DAKOTA,38,2021,June,Drought,Z,45
+SOUTH DAKOTA,46,2021,June,Drought,Z,45
+NORTH DAKOTA,38,2021,June,Drought,Z,40
+NORTH DAKOTA,38,2021,June,Drought,Z,33
+NORTH DAKOTA,38,2021,June,Drought,Z,37
+NORTH DAKOTA,38,2021,June,Drought,Z,11
+NORTH DAKOTA,38,2021,June,Drought,Z,23
+NORTH DAKOTA,38,2021,June,Drought,Z,9
+SOUTH DAKOTA,46,2021,June,Drought,Z,8
+SOUTH DAKOTA,46,2021,June,Drought,Z,7
+MINNESOTA,27,2021,June,Drought,Z,96
+MINNESOTA,27,2021,June,Drought,Z,94
+MINNESOTA,27,2021,June,Drought,Z,95
+SOUTH DAKOTA,46,2021,June,Drought,Z,11
+SOUTH DAKOTA,46,2021,June,Drought,Z,22
+SOUTH DAKOTA,46,2021,June,Drought,Z,19
+SOUTH DAKOTA,46,2021,June,Drought,Z,6
+SOUTH DAKOTA,46,2021,June,Drought,Z,18
+SOUTH DAKOTA,46,2021,June,Drought,Z,5
+NORTH DAKOTA,38,2021,June,Drought,Z,44
+NORTH DAKOTA,38,2021,June,Drought,Z,32
+SOUTH DAKOTA,46,2021,June,Drought,Z,10
+SOUTH DAKOTA,46,2021,June,Drought,Z,17
+NORTH DAKOTA,38,2021,June,Drought,Z,4
+NORTH DAKOTA,38,2021,June,Drought,Z,43
+NORTH DAKOTA,38,2021,June,Drought,Z,2
+NORTH DAKOTA,38,2021,June,Drought,Z,35
+SOUTH DAKOTA,46,2021,June,Drought,Z,36
+SOUTH DAKOTA,46,2021,June,Drought,Z,37
+TEXAS,48,2021,June,Drought,Z,16
+NORTH DAKOTA,38,2021,June,Drought,Z,51
+NORTH DAKOTA,38,2021,June,Drought,Z,1
+NORTH DAKOTA,38,2021,June,Drought,Z,18
+NORTH DAKOTA,38,2021,June,Drought,Z,46
+SOUTH DAKOTA,46,2021,June,Drought,Z,51
+SOUTH DAKOTA,46,2021,June,Drought,Z,4
+NORTH DAKOTA,38,2021,June,Drought,Z,25
+NORTH DAKOTA,38,2021,June,Drought,Z,31
+NORTH DAKOTA,38,2021,June,Drought,Z,42
+NORTH DAKOTA,38,2021,June,Drought,Z,41
+SOUTH DAKOTA,46,2021,June,Drought,Z,9
+SOUTH DAKOTA,46,2021,June,Drought,Z,16
+NORTH DAKOTA,38,2021,June,Drought,Z,36
+NORTH DAKOTA,38,2021,June,Drought,Z,48
+NORTH DAKOTA,38,2021,June,Drought,Z,47
+NORTH DAKOTA,38,2021,June,Drought,Z,12
+SOUTH DAKOTA,46,2021,June,Drought,Z,34
+SOUTH DAKOTA,46,2021,June,Drought,Z,35
+NORTH DAKOTA,38,2021,June,Drought,Z,50
+NORTH DAKOTA,38,2021,June,Drought,Z,17
+NORTH DAKOTA,38,2021,June,Drought,Z,21
+NORTH DAKOTA,38,2021,June,Drought,Z,19
+SOUTH DAKOTA,46,2021,June,Drought,Z,48
+SOUTH DAKOTA,46,2021,June,Drought,Z,3
